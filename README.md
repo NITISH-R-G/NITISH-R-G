@@ -1,65 +1,91 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer;Dual+Degree+Scholar+%40+IIT+Madras+%26+SIET" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
----
+<br />
 
 ## 👨‍💻 `init_developer.py`
 
 ```python
+from typing import List, Dict
+
 class Developer:
     def __init__(self):
-        self.name = "Nitish R.G"
-        self.role = "Data Science & AI Practitioner"
-        self.education = {
+        self.name: str = "Nitish R.G"
+        self.role: str = "Data Science & AI Practitioner"
+        self.focus: List[str] = [
+            "Advanced LLMs",
+            "Computer Vision",
+            "Full-Stack ML Integration"
+        ]
+        self.education: Dict[str, str] = {
             "BS": "Data Science @ IIT Madras",
-            "BE": "Computer Science Engineering @ SIET"
+            "BE": "Computer Science & Engineering @ SIET"
         }
-        self.focus = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
 
-    def get_mission(self):
-        return "Turning complex data into actionable intelligence 🚀"
+    def get_mission(self) -> str:
+        return "Architecting intelligent solutions to transform raw data into high-impact insights. 🚀"
 
-me = Developer()
-print(me.get_mission())
+if __name__ == "__main__":
+    me = Developer()
+    print(me.get_mission())
 ```
 
----
+<br />
 
-## 🌟 About Me
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My goal is to build scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
+## 🧠 About Me
 
-- 🔭 **Currently Exploring:** Advanced LLMs, scalable Computer Vision systems, and end-to-end full-stack integration of machine learning models.
-- 💡 **Ask me about:** Python, PyTorch, React, Next.js, and deploying ML models.
-- 🏢 **Experience:**
+I operate at the fascinating intersection of **Artificial Intelligence, Data Engineering, and Scalable Software Development**. My core philosophy is to build high-performance, intelligent models that don't just stay in notebooks, but drive real-world value through full-stack integration.
+
+- 🔭 **Currently Focusing On:** Optimizing LLMs for edge devices, scalable Computer Vision pipelines, and AI-driven architectures.
+- 🏢 **Experience Highlights:**
   - **AI Intern** @ Infosys Springboard
   - **Developer** @ AMD AI Developer Program
   - **Alumni** @ McKinsey Forward
-- 🤝 **Let's Collaborate:** Open to innovative projects in AI, ML, and data-centric software solutions.
-- 📫 **How to reach me:** `nitishrg.8220psgps2020@gmail.com`
+- 🤝 **Collaboration:** Always open to open-source contributions and innovative AI/ML projects.
+- 📫 **Reach Me:** [nitishrg.8220psgps2020@gmail.com](mailto:nitishrg.8220psgps2020@gmail.com)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Arsenal
+## 📊 Quick Stats
+
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c3ff" alt="GitHub Stats" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 🛠️ Tech Stack Dashboard
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>🧠 AI, ML & Data Science</b></td>
-      <td align="center"><b>💻 Web & App Dev</b></td>
+      <td align="center" width="50%"><b>🧠 AI, ML & Data Science</b></td>
+      <td align="center" width="50%"><b>💻 Web & App Dev</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -98,35 +124,25 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
   </table>
 </div>
 
----
-
-## 🚀 Projects & Portfolio
-
-<div align="center">
-  <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
-  <p><i>Experience my work through an interactive, visually stunning Mac OS-themed portfolio.</i></p>
-  <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 <br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
+## 📈 Deep Dive Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0D1117&ring=00c3ff&fire=00c3ff&currStreakLabel=00c3ff" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c3ff" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <div align="center">
-  <h3>🐍 Contributions Graph</h3>
+  <h3>🐍 Contribution Ecosystem</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg">
@@ -134,23 +150,30 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
   </picture>
 </div>
 
----
+<br />
 
-## 🏆 Achievements & Credibility
+## 🚀 Featured Mission
 
-<details>
-  <summary><b>Click to reveal my milestones and leadership roles 🎯</b></summary>
-  <ul>
-    <li>🚀 <b>AI Intern @ Infosys Springboard</b> - Built scalable ML models and explored AI integrations.</li>
-    <li>💻 <b>AMD AI Developer Program</b> - Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</li>
-    <li>📈 <b>McKinsey Forward Alumni</b> - Completed rigorous business and leadership training program.</li>
-    <li>🎓 <b>Dual Degree Scholar</b> - Pursuing rigorous coursework simultaneously at IIT Madras (BS in Data Science) and SIET (BE in CSE).</li>
-  </ul>
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
+        <p><i>A fully interactive, visually stunning portfolio built to mimic the macOS environment. Dive into my universe!</i></p>
+        <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
+          <img src="https://img.shields.io/badge/Launch_Project-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Portfolio" />
+        </a>
+        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
+          <img src="https://img.shields.io/badge/View_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br />
 
-## 🌐 Let's Connect
+## 🌐 Establish Connection
 
 <div align="center">
   <a href="https://github.com/NITISH-R-G"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -164,11 +187,11 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00c3ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
 </div>
