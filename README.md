@@ -1,16 +1,16 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;Creative+Technologist+%26+Developer;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -19,28 +19,35 @@
 ## 👨‍💻 `init_developer.py`
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "Nitish R.G"
-        self.role = "Data Science & AI Practitioner"
-        self.education = {
-            "BS": "Data Science @ IIT Madras",
-            "BE": "Computer Science Engineering @ SIET"
-        }
-        self.focus = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
+from dataclasses import dataclass, field
+from typing import List, Dict
 
-    def get_mission(self):
+@dataclass
+class Developer:
+    name: str = "Nitish R.G"
+    role: str = "Data Science & AI Practitioner | Creative Technologist"
+    education: Dict[str, str] = field(default_factory=lambda: {
+        "BS": "Data Science @ IIT Madras",
+        "BE": "Computer Science Engineering @ SIET"
+    })
+    focus: List[str] = field(default_factory=lambda: [
+        "Advanced LLMs",
+        "Computer Vision",
+        "Full-Stack ML Integration"
+    ])
+
+    def get_mission(self) -> str:
         return "Turning complex data into actionable intelligence 🚀"
 
 me = Developer()
-print(me.get_mission())
+print(f"{me.name} >> {me.get_mission()}")
 ```
 
 ---
 
 ## 🌟 About Me
 
-I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My goal is to build scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
+I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My goal is to build scalable, high-impact models that solve real-world problems, with a strong emphasis on clean code, premium visual design, and contributing meaningfully to the open-source ecosystem.
 
 - 🔭 **Currently Exploring:** Advanced LLMs, scalable Computer Vision systems, and end-to-end full-stack integration of machine learning models.
 - 💡 **Ask me about:** Python, PyTorch, React, Next.js, and deploying ML models.
@@ -64,18 +71,18 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
     <tr>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5" alt="AI Skills" />
+          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5&theme=dark" alt="AI Skills" />
         </a><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama&perline=5" alt="More AI Skills" />
+          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama&perline=5&theme=dark" alt="More AI Skills" />
         </a>
       </td>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5" alt="Web Skills" />
+          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5&theme=dark" alt="Web Skills" />
         </a><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer&perline=5" alt="More Web Skills" />
+          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer&perline=5&theme=dark" alt="More Web Skills" />
         </a>
       </td>
     </tr>
@@ -86,12 +93,12 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
     <tr>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&perline=5" alt="DevOps Skills" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&perline=5&theme=dark" alt="DevOps Skills" />
         </a>
       </td>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer&perline=5" alt="Design Skills" />
+          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer&perline=5&theme=dark" alt="Design Skills" />
         </a>
       </td>
     </tr>
@@ -106,7 +113,7 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
   <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
   <p><i>Experience my work through an interactive, visually stunning Mac OS-themed portfolio.</i></p>
   <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/View_My_Resume-00c3ff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
 
@@ -115,12 +122,12 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff" alt="Top Languages" />
 </div>
 
 <br />
@@ -153,22 +160,22 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/NITISH-R-G"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/NITISH_R_G"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/nitish_r_g"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://medium.com/@nitishrg.8220psgps2020"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/32586049/nitish-r-g"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://github.com/NITISH-R-G"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=00c3ff" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=00c3ff" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/NITISH_R_G"><img src="https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=twitter&logoColor=00c3ff" alt="Twitter" /></a>
+  <a href="https://dev.to/nitish_r_g"><img src="https://img.shields.io/badge/dev.to-1a1b26?style=for-the-badge&logo=dev.to&logoColor=00c3ff" alt="Dev.to" /></a>
+  <a href="https://medium.com/@nitishrg.8220psgps2020"><img src="https://img.shields.io/badge/Medium-1a1b26?style=for-the-badge&logo=medium&logoColor=00c3ff" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/32586049/nitish-r-g"><img src="https://img.shields.io/badge/Stack_Overflow-1a1b26?style=for-the-badge&logo=stack-overflow&logoColor=00c3ff" alt="Stack Overflow" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00c3ff&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
 </div>
