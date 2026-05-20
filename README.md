@@ -1,16 +1,16 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&theme=tokyonight&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -19,21 +19,29 @@
 ## 👨‍💻 `init_developer.py`
 
 ```python
+from typing import List, Dict
+
 class Developer:
-    def __init__(self):
-        self.name = "Nitish R.G"
-        self.role = "Data Science & AI Practitioner"
-        self.education = {
+    def __init__(self) -> None:
+        self.name: str = "Nitish R.G"
+        self.role: str = "Data Science & AI Practitioner"
+        self.education: Dict[str, str] = {
             "BS": "Data Science @ IIT Madras",
             "BE": "Computer Science Engineering @ SIET"
         }
-        self.focus = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
+        self.focus: List[str] = [
+            "Advanced LLMs",
+            "Computer Vision",
+            "Full-Stack ML Integration"
+        ]
 
-    def get_mission(self):
+    @property
+    def mission(self) -> str:
         return "Turning complex data into actionable intelligence 🚀"
 
-me = Developer()
-print(me.get_mission())
+if __name__ == "__main__":
+    me = Developer()
+    print(me.mission)
 ```
 
 ---
@@ -50,6 +58,7 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
   - **Alumni** @ McKinsey Forward
 - 🤝 **Let's Collaborate:** Open to innovative projects in AI, ML, and data-centric software solutions.
 - 📫 **How to reach me:** `nitishrg.8220psgps2020@gmail.com`
+- ⚡ **Fun Fact:** My code compiles on the first try... exactly 1% of the time, but the debugging process is where the real magic happens! ✨
 
 ---
 
@@ -64,18 +73,18 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
     <tr>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5" alt="AI Skills" />
+          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&theme=dark&perline=5" alt="AI Skills" />
         </a><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama&perline=5" alt="More AI Skills" />
+          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama&theme=dark&perline=5" alt="More AI Skills" />
         </a>
       </td>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5" alt="Web Skills" />
+          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&theme=dark&perline=5" alt="Web Skills" />
         </a><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer&perline=5" alt="More Web Skills" />
+          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer&theme=dark&perline=5" alt="More Web Skills" />
         </a>
       </td>
     </tr>
@@ -86,12 +95,12 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
     <tr>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&perline=5" alt="DevOps Skills" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&theme=dark&perline=5" alt="DevOps Skills" />
         </a>
       </td>
       <td align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer&perline=5" alt="Design Skills" />
+          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer&theme=dark&perline=5" alt="Design Skills" />
         </a>
       </td>
     </tr>
@@ -115,12 +124,20 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br />
+
+## 😄 Developer Humor
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <br />
@@ -170,5 +187,5 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&theme=tokyonight&height=100&section=footer" alt="Footer Banner" />
 </div>
