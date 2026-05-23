@@ -1,16 +1,16 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -20,20 +20,30 @@
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Nitish R.G"
-        self.role = "Data Science & AI Practitioner"
-        self.education = {
+    def __init__(self) -> None:
+        self.name: str = "Nitish R.G"
+        self.role: str = "Data Science & AI Practitioner"
+        self.education: dict[str, str] = {
             "BS": "Data Science @ IIT Madras",
             "BE": "Computer Science Engineering @ SIET"
         }
-        self.focus = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
+        self.focus: list[str] = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
 
-    def get_mission(self):
+    def get_mission(self) -> str:
         return "Turning complex data into actionable intelligence 🚀"
+
+    def get_daily_thoughts(self) -> dict[str, str]:
+        """Developer's Mind Easter Egg"""
+        return {
+            "coffee": "required for compilation",
+            "code": "refactoring in progress",
+            "models": "training on GPUs",
+            "bugs": "temporarily classified as features"
+        }
 
 me = Developer()
 print(me.get_mission())
+print(me.get_daily_thoughts())
 ```
 
 ---
@@ -42,26 +52,31 @@ print(me.get_mission())
 
 I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My goal is to build scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
 
-- 🔭 **Currently Exploring:** Advanced LLMs, scalable Computer Vision systems, and end-to-end full-stack integration of machine learning models.
-- 💡 **Ask me about:** Python, PyTorch, React, Next.js, and deploying ML models.
-- 🏢 **Experience:**
-  - **AI Intern** @ Infosys Springboard
-  - **Developer** @ AMD AI Developer Program
-  - **Alumni** @ McKinsey Forward
-- 🤝 **Let's Collaborate:** Open to innovative projects in AI, ML, and data-centric software solutions.
-- 📫 **How to reach me:** `nitishrg.8220psgps2020@gmail.com`
+> 🔭 **Currently Exploring:** Advanced LLMs, scalable Computer Vision systems, and end-to-end full-stack integration of machine learning models.
+>
+> 💡 **Ask me about:** Python, PyTorch, React, Next.js, and deploying ML models.
+>
+> 🏢 **Experience:**
+>
+> - **AI Intern** @ Infosys Springboard
+> - **Developer** @ AMD AI Developer Program
+> - **Alumni** @ McKinsey Forward
+>
+> 🤝 **Let's Collaborate:** Open to innovative projects in AI, ML, and data-centric software solutions.
+>
+> 📫 **How to reach me:** `nitishrg.8220psgps2020@gmail.com`
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table>
-    <tr>
+  <table bgcolor="#1a1b26">
+    <tr bgcolor="#1a1b26">
       <td align="center"><b>🧠 AI, ML & Data Science</b></td>
       <td align="center"><b>💻 Web & App Dev</b></td>
     </tr>
-    <tr>
+    <tr bgcolor="#1a1b26">
       <td align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5" alt="AI Skills" />
@@ -79,11 +94,11 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
         </a>
       </td>
     </tr>
-    <tr>
+    <tr bgcolor="#1a1b26">
       <td align="center"><b>🗄️ Database, Cloud & DevOps</b></td>
       <td align="center"><b>🎨 Design & Tools</b></td>
     </tr>
-    <tr>
+    <tr bgcolor="#1a1b26">
       <td align="center">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&perline=5" alt="DevOps Skills" />
@@ -103,11 +118,19 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 ## 🚀 Projects & Portfolio
 
 <div align="center">
-  <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
-  <p><i>Experience my work through an interactive, visually stunning Mac OS-themed portfolio.</i></p>
-  <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
+        <p><i>Experience my work through an interactive, visually stunning Mac OS-themed portfolio.</i></p>
+      </td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
+          <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -115,12 +138,12 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
 </div>
 
 <br />
@@ -164,11 +187,11 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00c3ff&style=flat-square" alt="Profile Views" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
 </div>
