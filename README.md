@@ -14,116 +14,185 @@
   </a>
 </div>
 
----
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+</div>
 
 ## 👨‍💻 `init_developer.py`
 
 ```python
-from typing import Dict, List
+import datetime
+from typing import Dict, List, Optional, Union
 
 class Developer:
+    """
+    Core architecture for Nitish R.G's developer persona.
+    Specializes in Artificial Intelligence, Data Engineering, and full-stack integration.
+    """
     def __init__(self) -> None:
         self.name: str = "Nitish R.G"
         self.role: str = "Data Science & AI Practitioner"
+        self.current_workspace: str = "India"
+
         self.education: Dict[str, str] = {
             "BS": "Data Science @ IIT Madras",
             "BE": "Computer Science Engineering @ SIET"
         }
-        self.focus: List[str] = ["Advanced LLMs", "Computer Vision", "Full-Stack ML Integration"]
 
-    def get_mission(self) -> str:
-        return "Turning complex data into actionable intelligence 🚀"
+        self.focus_areas: List[str] = [
+            "Advanced LLMs & RAG Architectures",
+            "Scalable Computer Vision",
+            "Full-Stack ML Integration"
+        ]
 
-me = Developer()
-print(me.get_mission())
+        self.experience: List[Dict[str, str]] = [
+            {"role": "AI Intern", "company": "Infosys Springboard"},
+            {"role": "Developer", "program": "AMD AI Developer Program"},
+            {"role": "Alumni", "program": "McKinsey Forward"}
+        ]
+
+    def get_daily_status(self) -> str:
+        """Returns the current operational status."""
+        return f"[{datetime.date.today().isoformat()}] Status: Building scalable AI solutions... 🚀"
+
+if __name__ == "__main__":
+    me = Developer()
+    print(me.get_daily_status())
 ```
 
+<br />
 ---
 
-## 🌟 About Me
+## 🌟 About Me & Experience
 
-I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My goal is to build scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
+<div align="center">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 Executive Summary</h3>
+        <p>I thrive at the intersection of <b>Artificial Intelligence, Data Engineering, and Software Development</b>. My primary goal is to architect scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.</p>
+        <p>Whether it's building robust RAG architectures, training complex computer vision models, or deploying full-stack web applications, I bring data to life.</p>
+        <br/>
+        <h3>🤝 Let's Collaborate</h3>
+        <p>Open to innovative projects in AI, ML, and data-centric software solutions.</p>
+        <ul>
+            <li>📫 <b>How to reach me:</b> <a href="mailto:nitishrg.8220psgps2020@gmail.com">nitishrg.8220psgps2020@gmail.com</a></li>
+            <li>⚡ <b>Fun Fact:</b> Still trying to figure out how to exit Vim.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🏢 Professional Experience</h3>
+        <ul>
+          <li><b>AI Intern</b> @ <a href="#">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
+          <li><b>Developer</b> @ <a href="#">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
+          <li><b>Alumni</b> @ <a href="#">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
+        </ul>
+        <br/>
+        <h3>🎓 Academic Pursuits</h3>
+        <ul>
+            <li><b>BS in Data Science</b> @ IIT Madras</li>
+            <li><b>BE in Computer Science Engineering</b> @ SIET</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 **Currently Exploring:** Advanced LLMs, scalable Computer Vision systems, and end-to-end full-stack integration of machine learning models.
-- 💡 **Ask me about:** Python, PyTorch, React, Next.js, and deploying ML models.
-- 🏢 **Experience:**
-  - **AI Intern** @ Infosys Springboard
-  - **Developer** @ AMD AI Developer Program
-  - **Alumni** @ McKinsey Forward
-- 🤝 **Let's Collaborate:** Open to innovative projects in AI, ML, and data-centric software solutions.
-- 📫 **How to reach me:** `nitishrg.8220psgps2020@gmail.com`
-- ⚡ **Fun Fact:** Still trying to figure out how to exit Vim.
-
+<br />
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table>
+  <table width="100%" border="0" cellpadding="15">
     <tr>
-      <td align="center"><b>🧠 AI, ML & Data Science</b></td>
-      <td align="center"><b>💻 Web & App Dev</b></td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3>🧠 AI, ML & Data Science</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5" alt="AI Skills" />
-        </a><br />
+        </a><br /><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama&perline=5" alt="More AI Skills" />
+          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama,r,julia&perline=5" alt="More AI Skills" />
         </a>
       </td>
-      <td align="center">
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3>💻 Web & App Dev</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5" alt="Web Skills" />
-        </a><br />
+        </a><br /><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer&perline=5" alt="More Web Skills" />
+          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer,tailwind,sass&perline=5" alt="More Web Skills" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center"><b>🗄️ Database, Cloud & DevOps</b></td>
-      <td align="center"><b>🎨 Design & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3>🗄️ Database, Cloud & DevOps</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git&perline=5" alt="DevOps Skills" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5" alt="DevOps Skills" />
         </a>
       </td>
-      <td align="center">
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3>🎨 Design & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer&perline=5" alt="Design Skills" />
+          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer,postman,vscode,vim,ubuntu,windows&perline=5" alt="Design Skills" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
+<br />
 ---
 
 ## 🚀 Projects & Portfolio
 
 <div align="center">
-  <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
-  <p><i>Experience my work through an interactive, visually stunning Mac OS-themed portfolio.</i></p>
-  <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
+        <p><i>Experience my work through an interactive, visually stunning Mac OS-themed web portfolio.</i></p>
+        <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-00c3ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing" style="color:#00c3ff;">📄 Comprehensive Resume</a></h3>
+        <p><i>Dive deep into my technical background, academic achievements, and professional experience.</i></p>
+        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
+            <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br />
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <table border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -137,20 +206,32 @@ I thrive at the intersection of **Artificial Intelligence, Data Engineering, and
   </picture>
 </div>
 
+<br />
+
 ---
 
 ## 🏆 Achievements & Credibility
 
-<details>
-  <summary><b>Click to reveal my milestones and leadership roles 🎯</b></summary>
-  <ul>
-    <li>🚀 <b>AI Intern @ Infosys Springboard</b> - Built scalable ML models and explored AI integrations.</li>
-    <li>💻 <b>AMD AI Developer Program</b> - Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</li>
-    <li>📈 <b>McKinsey Forward Alumni</b> - Completed rigorous business and leadership training program.</li>
-    <li>🎓 <b>Dual Degree Scholar</b> - Pursuing rigorous coursework simultaneously at IIT Madras (BS in Data Science) and SIET (BE in CSE).</li>
-  </ul>
-</details>
+<div align="center">
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td bgcolor="#0d1117">
+        <details>
+          <summary><h3 style="display:inline-block; margin:0; cursor:pointer; color:#00c3ff;">Click to reveal my milestones and leadership roles 🎯</h3></summary>
+          <br/>
+          <ul>
+            <li>🚀 <img src="https://img.shields.io/badge/AI_Intern-Infosys_Springboard-00c3ff?style=flat-square" alt="Infosys"/> - Built scalable ML models and explored AI integrations.</li>
+            <li>💻 <img src="https://img.shields.io/badge/Developer-AMD_AI_Program-ED1C24?style=flat-square" alt="AMD"/> - Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</li>
+            <li>📈 <img src="https://img.shields.io/badge/Alumni-McKinsey_Forward-051c2c?style=flat-square" alt="McKinsey"/> - Completed rigorous business and leadership training program.</li>
+            <li>🎓 <img src="https://img.shields.io/badge/Dual_Degree_Scholar-IIT_Madras_&_SIET-FF9900?style=flat-square" alt="Education"/> - Pursuing rigorous coursework simultaneously at IIT Madras (BS in Data Science) and SIET (BE in CSE).</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br />
 ---
 
 ## 🌐 Let's Connect
