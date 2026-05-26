@@ -268,6 +268,18 @@ if __name__ == "__main__":
     <tr>
       <td colspan="2" align="center">
         <br/>
+<br />
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Neural Contribution Matrix" width="100%" />
+</div>
+<details>
+<summary align="center"><b>View Alternate Dimensional Perspectives (Click to expand)</b></summary>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Night Rainbow Matrix" width="49%" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal Animated Matrix" width="49%" />
+</div>
+</details>
+<br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="Top Languages" />
       </td>
     </tr>
