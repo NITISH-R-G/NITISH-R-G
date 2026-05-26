@@ -2,7 +2,7 @@ import unittest
 import re
 import io
 import sys
-from typing import Dict, List
+from typing import Dict, List, Optional, Union
 
 class TestDeveloperClass(unittest.TestCase):
     @classmethod
@@ -20,7 +20,7 @@ class TestDeveloperClass(unittest.TestCase):
         sys.stdout = io.StringIO()
         try:
             code = match.group(1)
-            namespace = {"Dict": Dict, "List": List}
+            namespace = {"Dict": Dict, "List": List, "Optional": Optional, "Union": Union}
             exec(code, namespace)
             cls.Developer = namespace['Developer']
         finally:
