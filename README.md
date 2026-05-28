@@ -27,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
-## CONSCIOUSNESS.INIT()
+## 🧠 CONSCIOUSNESS.INIT()
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
@@ -97,19 +97,19 @@ if __name__ == "__main__":
         <p>I thrive at the intersection of <b>Artificial Intelligence, Data Engineering, and Software Development</b>. My primary goal is to architect scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.</p>
         <p>Whether it's building robust RAG architectures, training complex computer vision models, or deploying full-stack web applications, I bring data to life.</p>
         <br/>
-        <h3>🤝 Collaborate Protocol</h3>
-        <p>Open to innovative projects in AI, ML, and data-centric software solutions.</p>
+        <h3>💡 Quick Facts</h3>
         <ul>
-            <li>📫 <b>Transmit to:</b> <a href="mailto:nitishrg.8220psgps2020@gmail.com">nitishrg.8220psgps2020@gmail.com</a></li>
-            <li>⚡ <b>Core Memory:</b> Still trying to figure out how to exit Vim.</li>
+            <li>🌱 <b>Currently learning:</b> Advanced distributed systems and optimizing multi-agent LLM frameworks.</li>
+            <li>💬 <b>Ask me about:</b> Computer Vision, Generative AI, or transitioning between hardware (AMD AI) and scalable cloud platforms.</li>
+            <li>⚡ <b>Fun Fact / Joke:</b> There are 10 types of people in this world... those who understand binary, and those who don't. Also, I'm still trying to figure out how to exit Vim.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <h3>🏢 Professional Experience</h3>
         <ul>
-          <li><b>AI Intern</b> @ <a href="#">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
-          <li><b>Developer</b> @ <a href="#">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
-          <li><b>Alumni</b> @ <a href="#">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
+          <li><b>AI Intern</b> @ <a href="https://infyspringboard.onwingspan.com/">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
+          <li><b>Developer</b> @ <a href="https://www.amd.com/en/developer.html">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
+          <li><b>Alumni</b> @ <a href="https://www.mckinsey.com/forward">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
         </ul>
         <br/>
         <h3>🎓 Academic Pursuits</h3>
@@ -133,7 +133,7 @@ if __name__ == "__main__":
 <div align="center">
   <table width="100%" border="0" cellpadding="15">
     <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
+      <td width="50%" align="center">
         <h3>🧠 AI, ML & Data Science</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5&theme=dark" alt="AI Skills" />
@@ -142,7 +142,7 @@ if __name__ == "__main__":
           <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama,r,julia&perline=5&theme=dark" alt="More AI Skills" />
         </a>
       </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
+      <td width="50%" align="center">
         <h3>💻 Web & App Dev</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5&theme=dark" alt="Web Skills" />
@@ -153,13 +153,13 @@ if __name__ == "__main__":
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
+      <td width="50%" align="center">
         <h3>🗄️ Database, Cloud & DevOps</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5&theme=dark" alt="DevOps Skills" />
         </a>
       </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
+      <td width="50%" align="center">
         <h3>🎨 Design & Tools</h3>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer,postman,vscode,vim,ubuntu,windows&perline=5&theme=dark" alt="Design Skills" />
@@ -174,21 +174,21 @@ if __name__ == "__main__":
 ## 🚀 PROJECTS & LIVING PORTFOLIO
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c3ff&height=100&section=header&text=PROJECT%20UNIVERSE&fontSize=24&fontColor=ffffff&animation=blinking" alt="Technical Capabilities Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c3ff&height=100&section=header&text=PROJECT%20UNIVERSE&fontSize=24&fontColor=ffffff&animation=blinking" alt="Project Universe Header" width="100%"/>
 </div>
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15">
     <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
+      <td width="50%" align="center">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
         <p><i>Experience my work through an interactive, visually stunning Mac OS-themed web portfolio.</i></p>
         <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
             <img src="https://img.shields.io/badge/LIVE_DEMO-00c3ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
         </a>
       </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing" style="color:#00c3ff;">📄 Comprehensive Resume</a></h3>
+      <td width="50%" align="center">
+        <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">📄 Comprehensive Resume</a></h3>
         <p><i>Dive deep into my technical background, academic achievements, and professional experience.</i></p>
         <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
             <img src="https://img.shields.io/badge/VIEW_MY_RESUME-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000" alt="Resume" />
@@ -252,35 +252,35 @@ if __name__ == "__main__":
 ## 📊 NEURAL NETWORK ANALYTICS
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00c3ff&height=100&section=header&text=GITHUB%20NEURAL%20INSIGHTS&fontSize=28&fontColor=00c3ff&animation=fadeIn" alt="Milestones Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00c3ff&height=100&section=header&text=GITHUB%20NEURAL%20INSIGHTS&fontSize=28&fontColor=00c3ff&animation=fadeIn" alt="Analytics Header" width="100%"/>
 </div>
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <br/>
-<br />
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Neural Contribution Matrix" width="100%" />
-</div>
-<details>
-<summary align="center"><b>View Alternate Dimensional Perspectives (Click to expand)</b></summary>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Night Rainbow Matrix" width="49%" />
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal Animated Matrix" width="49%" />
-</div>
-</details>
-<br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="Top Languages" />
+        <br />
+        <div align="center">
+          <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Neural Contribution Matrix" width="100%" />
+        </div>
+        <details>
+        <summary align="center"><b>View Alternate Dimensional Perspectives (Click to expand)</b></summary>
+        <div align="center">
+          <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Night Rainbow Matrix" width="49%" />
+          <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Seasonal Animated Matrix" width="49%" />
+        </div>
+        </details>
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff" alt="Top Languages" />
       </td>
     </tr>
   </table>
