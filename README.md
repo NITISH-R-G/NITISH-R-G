@@ -2,19 +2,19 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=300&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Practitioner&descAlignY=55&descAlign=62" alt="Header Banner" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni;Turning+data+into+intelligence+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni;Turning+data+into+intelligence+🚀;Architecting+scalable+AI+solutions...;Innovating+at+the+intersection+of+Data+%26+Design" alt="Typing Animation" />
 </div>
 
 <!-- PROFILE VIEWS AND STATS -->
 <div align="center">
   <a href="https://github.com/NITISH-R-G"><img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=PROFILE+VIEWS" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/github/followers/NITISH-R-G?style=for-the-badge&color=00c3ff&labelColor=0d1117&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/NITISH-R-G?style=for-the-badge&color=00c3ff&labelColor=0d1117&logo=github&logoColor=white&label=STARS" alt="Stars" />
+  <a href="https://github.com/NITISH-R-G?tab=followers"><img src="https://img.shields.io/github/followers/NITISH-R-G?style=for-the-badge&color=00c3ff&labelColor=0d1117&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers" /></a>
+  <a href="https://github.com/NITISH-R-G?tab=stars"><img src="https://img.shields.io/github/stars/NITISH-R-G?style=for-the-badge&color=00c3ff&labelColor=0d1117&logo=github&logoColor=white&label=STARS" alt="Stars" /></a>
 </div>
 
 <br />
@@ -27,6 +27,7 @@
   <a href="https://medium.com/@nitishrg.8220psgps2020"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000" alt="Medium" /></a>
   <a href="https://stackoverflow.com/users/32586049/nitish-r-g"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=000000" alt="Stack Overflow" /></a>
   <a href="mailto:nitishrg.8220psgps2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" /></a>
+  <a href="https://mac-os-portfolio-nine-beryl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00c3ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio" /></a>
 </div>
 
 <br />
@@ -77,18 +78,25 @@ class Developer:
             {"role": "Alumni", "program": "McKinsey Forward"}
         ]
 
+        self.current_stack: Dict[str, List[str]] = {
+            "AI/ML": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"],
+            "Web": ["Next.js", "React", "Node.js", "FastAPI"],
+            "Cloud": ["AWS", "Docker", "Linux"]
+        }
+
     def get_mission(self) -> str:
         """Returns the current mission."""
         return "Turning complex data into actionable intelligence 🚀"
 
     def get_daily_status(self) -> str:
         """Returns the current operational status."""
-        return f"[{datetime.date.today().isoformat()}] Status: Building scalable AI solutions... 🚀"
+        return f"[{datetime.date.today().isoformat()}] Status: Architecting intelligent systems and optimizing neural pathways... 🧠✨"
 
 if __name__ == "__main__":
-    me = Developer()
-    print(me.get_mission())
-    print(me.get_daily_status())
+    sys_identity = Developer()
+    print(f"Booting system for: {sys_identity.name} - {sys_identity.role}")
+    print(f"Mission Protocol: {sys_identity.get_mission()}")
+    print(sys_identity.get_daily_status())
 ```
 
 </details>
@@ -106,18 +114,18 @@ if __name__ == "__main__":
       <br/>
       <h3>💡 Current Runtime Context</h3>
       <ul>
-          <li>🌱 <b>Learning:</b> Advanced distributed systems, multimodal pipelines, and optimizing multi-agent LLM frameworks.</li>
+          <li>🌱 <b>Currently learning:</b> Advanced distributed systems, multimodal pipelines, and optimizing multi-agent LLM frameworks.</li>
           <li>💬 <b>Ask me about:</b> Computer Vision, Generative AI, or transitioning between hardware (AMD AI) and scalable cloud architectures.</li>
-          <li>⚡ <b>System Log (Joke):</b> There are 10 types of people in this world... those who understand binary, and those who don't. Also, I'm still trying to figure out how to exit Vim.</li>
-          <li>🎯 <b>Current Mission:</b> Building scalable, state-of-the-art AI solutions.</li>
+          <li>⚡ <b>System Log (Joke):</b> An SQL query goes into a bar, walks up to two tables and asks... <i>"Can I join you?"</i></li>
+          <li>🎯 <b>Current Mission:</b> Building scalable, state-of-the-art AI solutions for next-gen intelligent applications.</li>
       </ul>
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000" alt="GitHub Stats" width="100%" />
         <br />
         <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff&background=00000000" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000" alt="GitHub Streak" width="100%" />
       </div>
     </td>
   </tr>
@@ -134,40 +142,32 @@ if __name__ == "__main__":
 <br />
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3>🧠 AI, ML & Data Science</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5&theme=dark" alt="AI Skills Part 1" />
-        </a>
-        <br /><br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama,r,julia&perline=5&theme=dark" alt="AI Skills Part 2" />
+          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter,anaconda,huggingface,r,julia&perline=5&theme=dark" alt="AI and ML Skills" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3>💻 Web & App Dev</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5&theme=dark" alt="Web Skills Part 1" />
-        </a>
-        <br /><br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer,tailwind,sass&perline=5&theme=dark" alt="Web Skills Part 2" />
+          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django,flask,fastapi,dart,flutter,tailwind&perline=5&theme=dark" alt="Web and App Dev Skills" />
         </a>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3>🗄️ Database, Cloud & DevOps</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5&theme=dark" alt="DevOps Skills" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5&theme=dark" alt="DevOps and Cloud Skills" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3>🎨 Design & Environment Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer,postman,vscode,vim,ubuntu,windows&perline=5&theme=dark" alt="Design Tools" />
+          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,postman,vscode,vim,ubuntu,windows&perline=5&theme=dark" alt="Design and Env Tools" />
         </a>
       </td>
     </tr>
@@ -185,20 +185,20 @@ if __name__ == "__main__":
 <br />
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Style Portfolio</a></h3>
-        <p><i>Experience my work through an interactive, visually stunning Mac OS-themed web portfolio. Built to showcase UI/UX design capabilities and front-end proficiency.</i></p>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Mac OS Interactive Portfolio</a></h3>
+        <p><i>Experience my work through a visually stunning, fully functional Mac OS-themed web portfolio. Built to showcase advanced UI/UX design capabilities and robust front-end proficiency.</i></p>
         <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
             <img src="https://img.shields.io/badge/LIVE_DEMO-00c3ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Live Demo" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="50%" align="center" valign="top">
         <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">📄 Comprehensive Resume</a></h3>
-        <p><i>Dive deep into my technical background, academic achievements, professional experience, and the impact of my complete project portfolio.</i></p>
+        <p><i>Dive deep into my technical background, academic achievements, professional experience, and the comprehensive impact of my complete data science project portfolio.</i></p>
         <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-            <img src="https://img.shields.io/badge/VIEW_MY_RESUME-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000" alt="Resume" />
+            <img src="https://img.shields.io/badge/VIEW_RESUME-FF0000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000" alt="Resume" />
         </a>
       </td>
     </tr>
@@ -216,31 +216,31 @@ if __name__ == "__main__":
 <br />
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/AI_INTERN-00c3ff?style=for-the-badge&logo=infosys&logoColor=white&labelColor=000000" alt="Infosys" />
         <br/>
         <h3>Infosys Springboard</h3>
-        <p><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></p>
+        <p><i>Engineered scalable Machine Learning architectures and successfully explored enterprise-grade Generative AI integrations.</i></p>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/DEVELOPER-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000" alt="AMD" />
         <br/>
         <h3>AMD AI Program</h3>
-        <p><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></p>
+        <p><i>Selected as a core participant to architect and deploy models using cutting-edge AMD AI hardware and optimization frameworks.</i></p>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/ALUMNI-051c2c?style=for-the-badge&logo=mckinsey&logoColor=white&labelColor=000000" alt="McKinsey" />
         <br/>
         <h3>McKinsey Forward</h3>
-        <p><i>Completed rigorous business strategy and leadership training program.</i></p>
+        <p><i>Graduated from a highly rigorous, global business strategy and technology leadership training program.</i></p>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/DUAL_DEGREE-FF9900?style=for-the-badge&logo=education&logoColor=white&labelColor=000000" alt="Education" />
         <br/>
         <h3>IIT Madras & SIET</h3>
-        <p><i>Simultaneous coursework: BS in Data Science & BE in Computer Science Engineering.</i></p>
+        <p><i>Simultaneously pursuing BS in Data Science and Applications & BE in Computer Science Engineering.</i></p>
       </td>
     </tr>
   </table>
