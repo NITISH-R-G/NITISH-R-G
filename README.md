@@ -67,46 +67,41 @@
 import datetime
 import random
 from typing import Dict, List, Optional, Union
+from dataclasses import dataclass, field
 
+@dataclass
 class Developer:
     """
     Core architecture for Nitish R.G's developer persona.
     Specializes in Artificial Intelligence, Data Engineering, and full-stack integration.
     """
-    def __init__(self) -> None:
-        self.name: str = "Nitish R.G"
-        self.role: str = "Data Science & AI Practitioner"
-        self.current_workspace: str = "India"
+    name: str = "Nitish R.G"
+    role: str = "Data Science & AI Practitioner"
+    current_workspace: str = "India"
+    status: Optional[str] = "Building the future"
 
-        self.education: Dict[str, str] = {
-            "BS": "Data Science @ IIT Madras",
-            "BE": "Computer Science Engineering @ SIET"
-        }
+    education: Dict[str, str] = field(default_factory=lambda: {
+        "BS": "Data Science @ IIT Madras",
+        "BE": "Computer Science Engineering @ SIET"
+    })
 
-        self.focus: List[str] = [
-            "Advanced LLMs",
-            "Computer Vision",
-            "Full-Stack ML Integration"
-        ]
+    focus: List[str] = field(default_factory=lambda: [
+        "Advanced LLMs",
+        "Computer Vision",
+        "Full-Stack ML Integration"
+    ])
 
-        self.experience: List[Dict[str, str]] = [
-            {"role": "AI Intern", "company": "Infosys Springboard"},
-            {"role": "Developer", "program": "AMD AI Developer Program"},
-            {"role": "Alumni", "program": "McKinsey Forward"}
-        ]
+    experience: List[Dict[str, str]] = field(default_factory=lambda: [
+        {"role": "AI Intern", "company": "Infosys Springboard"},
+        {"role": "Developer", "program": "AMD AI Developer Program"},
+        {"role": "Alumni", "program": "McKinsey Forward"}
+    ])
 
-        self.current_stack: Dict[str, List[str]] = {
-            "AI/ML": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain"],
-            "Web": ["Next.js", "React", "Node.js", "FastAPI"],
-            "Cloud": ["AWS", "Docker", "Linux"]
-        }
-
-        self.certifications: List[str] = [
-            "AWS Certified",
-            "DeepLearning.AI"
-        ]
-
-        self.status: Optional[str] = "Building the future"
+    current_stack: Dict[str, List[str]] = field(default_factory=lambda: {
+        "AI/ML": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "OpenCV"],
+        "Web": ["Next.js", "React", "Node.js", "FastAPI", "Django"],
+        "DevOps": ["Docker", "AWS", "Git", "Linux", "CI/CD"]
+    })
 
     def get_mission(self) -> str:
         """Returns the current mission."""
@@ -118,13 +113,18 @@ class Developer:
             "Why did the neural network break up with the decision tree? It found someone more fully connected! 💔🕸️",
             "A SQL query goes into a bar, walks up to two tables and asks... 'Can I join you?' 🍻🗄️",
             "I'd tell you a joke about UDP, but you probably wouldn't get it. 📡💨",
-            "There are 10 types of people in this world: those who understand binary, and those who don't. 💻🔢"
+            "There are 10 types of people in this world: those who understand binary, and those who don't. 💻🔢",
+            "Why do programmers prefer dark mode? Because light attracts bugs! 🐛🌑"
         ]
         return random.choice(jokes)
 
     def get_daily_status(self) -> str:
         """Returns the current operational status."""
-        return f"[{datetime.date.today().isoformat()}] Status: Architecting intelligent systems and optimizing neural pathways... 🧠✨\nSystem Humor Load: {self.generate_system_joke()}"
+        date_str = datetime.date.today().isoformat()
+        joke_str = self.generate_system_joke()
+        line1 = f"[{date_str}] Status: Architecting intelligent systems... 🧠✨"
+        line2 = f"System Humor Load: {joke_str}"
+        return line1 + chr(10) + line2
 
 if __name__ == "__main__":
     sys_identity = Developer()
@@ -257,6 +257,31 @@ if __name__ == "__main__":
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+
+## 🔍 `runtime.parameters()`
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="15" cellspacing="10">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>🌱 Currently Learning</h3>
+        <ul align="left">
+          <li>⚡ Multi-Agent RAG Architectures</li>
+          <li>⚡ Hardware Acceleration in AI (AMD ROCm)</li>
+          <li>⚡ Advanced Edge Computing</li>
+        </ul>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>💬 Ask Me About</h3>
+        <ul align="left">
+          <li>🚀 Full-Stack ML Integrations</li>
+          <li>🚀 Developing Scalable AI Systems</li>
+          <li>🚀 Dual Degree Engineering Survival</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌐 `metrics.visualize(activity_logs)`
 
