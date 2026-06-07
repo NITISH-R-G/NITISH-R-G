@@ -41,11 +41,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🧠 `./sys_init.sh --execute-persona`
+## 🧠 About Me
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚀 Initializing Intelligence Sequence...</h3>
       <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. I specialize in architecting intelligent systems, blending heavy-duty data engineering with bleeding-edge AI models to solve real-world problems.</p>
       <p>From crafting large language model workflows to optimizing data pipelines, my objective is simple: <b>turning complex data into actionable intelligence</b>.</p>
@@ -58,89 +58,12 @@
         <li>🤖 <b>System Joke:</b> <i>Why did the neural network break up with the decision tree? It found someone more fully connected!</i></li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <details open>
-        <summary><b>👨‍💻 <code>Developer.py</code> (Expand Source)</b></summary>
-        <br />
-
-```python
-import datetime
-import random
-from typing import Dict, List, Optional, Union
-from dataclasses import dataclass, field
-
-@dataclass
-class Developer:
-    """
-    Core architecture for Nitish R.G's developer persona.
-    Specializes in Artificial Intelligence, Data Engineering, and full-stack integration.
-    """
-    name: str = "Nitish R.G"
-    role: str = "Data Science & AI Practitioner"
-    current_workspace: str = "India"
-    status: Optional[str] = "Building the future"
-
-    education: Dict[str, str] = field(default_factory=lambda: {
-        "BS": "Data Science @ IIT Madras",
-        "BE": "Computer Science Engineering @ SIET"
-    })
-
-    focus: List[str] = field(default_factory=lambda: [
-        "Advanced LLMs",
-        "Computer Vision",
-        "Full-Stack ML Integration"
-    ])
-
-    experience: List[Dict[str, str]] = field(default_factory=lambda: [
-        {"role": "AI Intern", "company": "Infosys Springboard"},
-        {"role": "Developer", "program": "AMD AI Developer Program"},
-        {"role": "Alumni", "program": "McKinsey Forward"}
-    ])
-
-    current_stack: Dict[str, List[str]] = field(default_factory=lambda: {
-        "AI/ML": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "OpenCV"],
-        "Web": ["Next.js", "React", "Node.js", "FastAPI", "Django"],
-        "DevOps": ["Docker", "AWS", "Git", "Linux", "CI/CD"]
-    })
-
-    def get_mission(self) -> str:
-        """Returns the current mission."""
-        return "Turning complex data into actionable intelligence 🚀"
-
-    def generate_system_joke(self) -> str:
-        """Retrieves a highly relevant developer joke."""
-        jokes = [
-            "Why did the neural network break up with the decision tree? It found someone more fully connected! 💔🕸️",
-            "A SQL query goes into a bar, walks up to two tables and asks... 'Can I join you?' 🍻🗄️",
-            "I'd tell you a joke about UDP, but you probably wouldn't get it. 📡💨",
-            "There are 10 types of people in this world: those who understand binary, and those who don't. 💻🔢",
-            "Why do programmers prefer dark mode? Because light attracts bugs! 🐛🌑"
-        ]
-        return random.choice(jokes)
-
-    def get_daily_status(self) -> str:
-        """Returns the current operational status."""
-        date_str = datetime.date.today().isoformat()
-        joke_str = self.generate_system_joke()
-        line1 = f"[{date_str}] Status: Architecting intelligent systems... 🧠✨"
-        line2 = f"System Humor Load: {joke_str}"
-        return line1 + chr(10) + line2
-
-if __name__ == "__main__":
-    sys_identity = Developer()
-    print(f"Booting system for: {sys_identity.name} - {sys_identity.role}")
-    print(f"Mission Protocol: {sys_identity.get_mission()}")
-    print(sys_identity.get_daily_status())
-```
-
-      </details>
-    </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 📊 `metrics.dashboard()`
+## 📊 GitHub Stats
 
 <div align="center">
   <table width="100%" border="0" cellpadding="0" cellspacing="10">
@@ -162,7 +85,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🛠️ `model.compile(tech_stack)`
+## 🛠️ Tech Stack
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -203,7 +126,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🚀 `deployments.list_active()`
+## 🚀 Projects
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -228,7 +151,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🏆 `career.get_history()`
+## 🏆 Experience
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -269,7 +192,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🔍 `runtime.parameters()`
+## 🔍 More About Me
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -294,7 +217,7 @@ if __name__ == "__main__":
   </table>
 </div>
 
-## 🌐 `metrics.visualize(activity_logs)`
+## 🌐 GitHub Activity
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -320,6 +243,13 @@ if __name__ == "__main__":
     </td>
   </tr>
 </table>
+
+<br />
+
+### 📡 Recent Commits & PRs
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 
