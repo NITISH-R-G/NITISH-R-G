@@ -39,7 +39,7 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🧠 `./sys_init.sh --execute-persona`
 
@@ -138,7 +138,7 @@ if __name__ == "__main__":
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 📊 `metrics.dashboard()`
 
@@ -160,7 +160,7 @@ if __name__ == "__main__":
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🛠️ `model.compile(tech_stack)`
 
@@ -201,7 +201,7 @@ if __name__ == "__main__":
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🚀 `deployments.list_active()`
 
@@ -226,7 +226,7 @@ if __name__ == "__main__":
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🏆 `career.get_history()`
 
@@ -267,7 +267,7 @@ if __name__ == "__main__":
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🔍 `runtime.parameters()`
 
@@ -324,7 +324,7 @@ if __name__ == "__main__":
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer&animation=twinkling" alt="Footer Waving Animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer&animation=twinkling" alt="" aria-hidden="true" width="100%" />
 </div>
 <!--
   [system_easter_egg]
