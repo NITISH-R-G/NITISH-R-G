@@ -292,6 +292,8 @@ if __name__ == "__main__":
       </td>
     </tr>
   </table>
+  <br />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 ## 🌐 `metrics.visualize(activity_logs)`
@@ -321,6 +323,17 @@ if __name__ == "__main__":
   </tr>
 </table>
 
+<br />
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+<div align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 <br />
 
 <div align="center">
