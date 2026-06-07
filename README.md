@@ -66,7 +66,7 @@
 ```python
 import datetime
 import random
-from typing import Dict, List, Optional, Union
+from typing import Dict, List
 from dataclasses import dataclass, field
 
 @dataclass
@@ -78,7 +78,7 @@ class Developer:
     name: str = "Nitish R.G"
     role: str = "Data Science & AI Practitioner"
     current_workspace: str = "India"
-    status: Optional[str] = "Building the future"
+    status: str = "Building the future"
 
     education: Dict[str, str] = field(default_factory=lambda: {
         "BS": "Data Science @ IIT Madras",
