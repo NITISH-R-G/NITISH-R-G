@@ -41,7 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🧠 `./sys_init.sh --execute-persona`
+## 🧠 About Me
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
@@ -140,16 +140,16 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 📊 `metrics.dashboard()`
+## 📊 GitHub Stats
 
 <div align="center">
   <table width="100%" border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
+        <img src="https://github-readme-stats-eight.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
+        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🛠️ `model.compile(tech_stack)`
+## 🛠️ Tech Stack
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -203,7 +203,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🚀 `deployments.list_active()`
+## 🚀 Projects
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -228,7 +228,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🏆 `career.get_history()`
+## 🏆 Experience
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -269,7 +269,7 @@ if __name__ == "__main__":
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
 
-## 🔍 `runtime.parameters()`
+## 🔍 More About Me
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -292,50 +292,8 @@ if __name__ == "__main__":
       </td>
     </tr>
   </table>
-  <br />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
-## 🌐 `metrics.visualize(activity_logs)`
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🐍 Neural Pathways (Grid Snake)</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg" />
-        <img alt="Interactive GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🌌 3D Contribution Matrix</h3>
-      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Neural Contribution Matrix - Night View" width="100%" />
-      <br />
-      <details>
-        <summary><b>Dimensional Perspectives (Click to expand)</b></summary>
-        <br />
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Neural Contribution Matrix - Night Rainbow" width="80%" />
-        <br /><br />
-        <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Neural Contribution Matrix - Seasonal Animated" width="80%" />
-      </details>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
-  </a>
-</div>
 <br />
 
 <div align="center">
