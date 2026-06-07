@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="100%" valign="top">
       <h3>🚀 Initializing Intelligence Sequence...</h3>
       <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. I specialize in architecting intelligent systems, blending heavy-duty data engineering with bleeding-edge AI models to solve real-world problems.</p>
       <p>From crafting large language model workflows to optimizing data pipelines, my objective is simple: <b>turning complex data into actionable intelligence</b>.</p>
@@ -58,83 +58,6 @@
         <li>🤖 <b>System Joke:</b> <i>Why did the neural network break up with the decision tree? It found someone more fully connected!</i></li>
       </ul>
     </td>
-    <td width="45%" valign="top">
-      <details open>
-        <summary><b>👨‍💻 <code>Developer.py</code> (Expand Source)</b></summary>
-        <br />
-
-```python
-import datetime
-import random
-from typing import Dict, List, Optional, Union
-from dataclasses import dataclass, field
-
-@dataclass
-class Developer:
-    """
-    Core architecture for Nitish R.G's developer persona.
-    Specializes in Artificial Intelligence, Data Engineering, and full-stack integration.
-    """
-    name: str = "Nitish R.G"
-    role: str = "Data Science & AI Practitioner"
-    current_workspace: str = "India"
-    status: Optional[str] = "Building the future"
-
-    education: Dict[str, str] = field(default_factory=lambda: {
-        "BS": "Data Science @ IIT Madras",
-        "BE": "Computer Science Engineering @ SIET"
-    })
-
-    focus: List[str] = field(default_factory=lambda: [
-        "Advanced LLMs",
-        "Computer Vision",
-        "Full-Stack ML Integration"
-    ])
-
-    experience: List[Dict[str, str]] = field(default_factory=lambda: [
-        {"role": "AI Intern", "company": "Infosys Springboard"},
-        {"role": "Developer", "program": "AMD AI Developer Program"},
-        {"role": "Alumni", "program": "McKinsey Forward"}
-    ])
-
-    current_stack: Dict[str, List[str]] = field(default_factory=lambda: {
-        "AI/ML": ["PyTorch", "TensorFlow", "HuggingFace", "LangChain", "OpenCV"],
-        "Web": ["Next.js", "React", "Node.js", "FastAPI", "Django"],
-        "DevOps": ["Docker", "AWS", "Git", "Linux", "CI/CD"]
-    })
-
-    def get_mission(self) -> str:
-        """Returns the current mission."""
-        return "Turning complex data into actionable intelligence 🚀"
-
-    def generate_system_joke(self) -> str:
-        """Retrieves a highly relevant developer joke."""
-        jokes = [
-            "Why did the neural network break up with the decision tree? It found someone more fully connected! 💔🕸️",
-            "A SQL query goes into a bar, walks up to two tables and asks... 'Can I join you?' 🍻🗄️",
-            "I'd tell you a joke about UDP, but you probably wouldn't get it. 📡💨",
-            "There are 10 types of people in this world: those who understand binary, and those who don't. 💻🔢",
-            "Why do programmers prefer dark mode? Because light attracts bugs! 🐛🌑"
-        ]
-        return random.choice(jokes)
-
-    def get_daily_status(self) -> str:
-        """Returns the current operational status."""
-        date_str = datetime.date.today().isoformat()
-        joke_str = self.generate_system_joke()
-        line1 = f"[{date_str}] Status: Architecting intelligent systems... 🧠✨"
-        line2 = f"System Humor Load: {joke_str}"
-        return line1 + chr(10) + line2
-
-if __name__ == "__main__":
-    sys_identity = Developer()
-    print(f"Booting system for: {sys_identity.name} - {sys_identity.role}")
-    print(f"Mission Protocol: {sys_identity.get_mission()}")
-    print(sys_identity.get_daily_status())
-```
-
-      </details>
-    </td>
   </tr>
 </table>
 
@@ -146,15 +69,15 @@ if __name__ == "__main__":
   <table width="100%" border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats-eight.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
       </td>
     </tr>
   </table>
@@ -293,6 +216,40 @@ if __name__ == "__main__":
     </tr>
   </table>
 </div>
+
+## 🌐 GitHub Activity
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🐍 Neural Pathways (Grid Snake)</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg" />
+        <img alt="Interactive GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🌌 3D Contribution Matrix</h3>
+      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Neural Contribution Matrix - Night View" width="100%" />
+      <br />
+      <details>
+        <summary><b>Dimensional Perspectives (Click to expand)</b></summary>
+        <br />
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Neural Contribution Matrix - Night Rainbow" width="80%" />
+        <br /><br />
+        <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Neural Contribution Matrix - Seasonal Animated" width="80%" />
+      </details>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 📡 Recent Commits & PRs
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 
