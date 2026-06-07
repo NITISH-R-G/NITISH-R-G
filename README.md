@@ -27,7 +27,7 @@
   <br /><br />
 </div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
       <a href="https://github.com/NITISH-R-G">
@@ -39,11 +39,11 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🧠 About Me
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
+<table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="100%" valign="top">
       <h3>🚀 Initializing Intelligence Sequence...</h3>
@@ -61,12 +61,12 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="0" cellspacing="10">
+  <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
@@ -83,12 +83,12 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15" cellspacing="10">
+  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
         <h3>🧠 Neural & Data Nodes</h3>
@@ -124,12 +124,12 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🚀 Projects
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15" cellspacing="10">
+  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
         <h3>🍎 MacOS Interactive Web Portfolio</h3>
@@ -149,12 +149,12 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🏆 Experience
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="0">
     <tr>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/AI_INTERN-1a1b26?style=for-the-badge&logo=infosys&logoColor=00c3ff&labelColor=1a1b26&color=00c3ff" alt="Infosys AI Intern Badge" />
@@ -190,12 +190,12 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## 🔍 More About Me
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15" cellspacing="10">
+  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
         <h3>🌱 Currently Learning</h3>
@@ -219,7 +219,7 @@
 
 ## 🌐 GitHub Activity
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🐍 Neural Pathways (Grid Snake)</h3>
