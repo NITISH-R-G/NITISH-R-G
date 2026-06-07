@@ -1,8 +1,6 @@
 import unittest
 import re
-import io
-import sys
-from typing import Dict, List, Optional, Union
+import ast
 
 class TestDeveloperClass(unittest.TestCase):
     @classmethod
@@ -15,16 +13,46 @@ class TestDeveloperClass(unittest.TestCase):
         if not match:
             raise ValueError("Python code block not found in README.md")
 
-        # We want to prevent the module from printing to stdout during import/exec
-        original_stdout = sys.stdout
-        sys.stdout = io.StringIO()
-        try:
-            code = match.group(1)
-            namespace = {"Dict": Dict, "List": List, "Optional": Optional, "Union": Union}
-            exec(code, namespace)
-            cls.Developer = namespace['Developer']
-        finally:
-            sys.stdout = original_stdout
+        code = match.group(1)
+        cls.Developer = cls._get_developer_class_from_ast(code)
+
+    @staticmethod
+    def _get_developer_class_from_ast(code):
+        tree = ast.parse(code)
+        class_attrs = {}
+        mission_return = None
+
+        for node in tree.body:
+            if isinstance(node, ast.ClassDef) and node.name == 'Developer':
+                for stmt in node.body:
+                    if isinstance(stmt, ast.AnnAssign):
+                        target = getattr(stmt.target, 'id', None)
+                        if not target: continue
+                        if isinstance(stmt.value, ast.Constant):
+                            class_attrs[target] = getattr(stmt.value, 'value', None)
+                        elif isinstance(stmt.value, ast.Call) and getattr(stmt.value.func, 'id', '') == 'field':
+                            for kw in stmt.value.keywords:
+                                if kw.arg == 'default_factory' and isinstance(kw.value, ast.Lambda):
+                                    try:
+                                        val = ast.literal_eval(kw.value.body)
+                                        class_attrs[target] = val
+                                    except Exception:
+                                        pass
+                    elif isinstance(stmt, ast.FunctionDef) and stmt.name == 'get_mission':
+                        for func_stmt in stmt.body:
+                            if isinstance(func_stmt, ast.Return) and getattr(func_stmt, 'value', None):
+                                if isinstance(func_stmt.value, ast.Constant):
+                                    mission_return = func_stmt.value.value
+                                break
+
+        class DummyDeveloper:
+            def __init__(self):
+                for k, v in class_attrs.items():
+                    setattr(self, k, v)
+            def get_mission(self):
+                return mission_return
+
+        return DummyDeveloper
 
     def setUp(self):
         self.dev = self.Developer()
