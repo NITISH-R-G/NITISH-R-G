@@ -52,5 +52,30 @@ class TestDeveloperClass(unittest.TestCase):
             "Turning complex data into actionable intelligence 🚀"
         )
 
+    def test_get_daily_status(self):
+        """Test the get_daily_status method returns the correct string."""
+        import datetime
+        from unittest.mock import Mock
+
+        # The Developer class is executed dynamically, so we must patch its specific globals
+        dev_globals = self.dev.get_daily_status.__globals__
+        original_datetime = dev_globals.get('datetime')
+
+        mock_datetime = Mock()
+        mock_date = Mock()
+        mock_date.today.return_value = datetime.date(2023, 10, 27)
+        mock_datetime.date = mock_date
+
+        try:
+            dev_globals['datetime'] = mock_datetime
+            status = self.dev.get_daily_status()
+        finally:
+            if original_datetime:
+                dev_globals['datetime'] = original_datetime
+            else:
+                del dev_globals['datetime']
+
+        self.assertTrue(status.startswith("[2023-10-27] Status: Architecting intelligent systems"))
+
 if __name__ == '__main__':
     unittest.main()
