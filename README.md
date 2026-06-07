@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
 </div>
 
 <div align="center">
@@ -154,7 +154,7 @@ if __name__ == "__main__":
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
+        <img src="https://streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
       </td>
     </tr>
   </table>
@@ -332,7 +332,9 @@ if __name__ == "__main__":
 
 <br />
 <div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
 </div>
 <br />
 
