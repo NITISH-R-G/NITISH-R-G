@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_AI+Intern+%40+Infosys+Springboard;%3E_AMD+AI+Developer+Program;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
 </div>
 
 <div align="center">
@@ -47,7 +47,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🚀 Initializing Intelligence Sequence...</h3>
-      <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. My passion lies in blurring the line between machine capability and human ingenuity.</p>
+      <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. I specialize in architecting intelligent systems, blending heavy-duty data engineering with bleeding-edge AI models to solve real-world problems.</p>
       <p>From crafting large language model workflows to optimizing data pipelines, my objective is simple: <b>turning complex data into actionable intelligence</b>.</p>
       <br />
       <h4>⚡ Runtime Telemetry:</h4>
@@ -143,10 +143,21 @@ if __name__ == "__main__":
 ## 📊 `metrics.dashboard()`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" />
+  <table width="100%" border="0" cellpadding="0" cellspacing="10">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Cyan Divider" width="100%" />
@@ -160,14 +171,14 @@ if __name__ == "__main__":
         <h3>🧠 Neural & Data Nodes</h3>
         <p><i>Building and training the future.</i></p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter,anaconda,huggingface,r,julia&perline=5&theme=dark" alt="AI, Machine Learning, and Data Science Nodes" />
+          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter,anaconda,huggingface,r,julia&perline=6&theme=dark" alt="AI, Machine Learning, and Data Science Nodes" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <h3>🌐 Web & Backend Nodes</h3>
         <p><i>Crafting seamless digital experiences.</i></p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,flask,fastapi,dart,flutter,tailwind,html,css,js&perline=5&theme=dark" alt="Web and Application Development Nodes" />
+          <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,flask,fastapi,dart,flutter,tailwind,html,css,js&perline=6&theme=dark" alt="Web and Application Development Nodes" />
         </a>
       </td>
     </tr>
@@ -176,14 +187,14 @@ if __name__ == "__main__":
         <h3>☁️ Infrastructure & DevOps</h3>
         <p><i>Scaling architectures securely.</i></p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5&theme=dark" alt="Database, DevOps, and Cloud Nodes" />
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=6&theme=dark" alt="Database, DevOps, and Cloud Nodes" />
         </a>
       </td>
       <td width="50%" align="center" valign="top">
         <h3>⚙️ Engineering Tools</h3>
         <p><i>Designing with precision.</i></p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,postman,vscode,vim,ubuntu,windows&perline=5&theme=dark" alt="Design, Prototyping, and Environment Nodes" />
+          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,postman,vscode,vim,ubuntu,windows&perline=6&theme=dark" alt="Design, Prototyping, and Environment Nodes" />
         </a>
       </td>
     </tr>
@@ -226,13 +237,13 @@ if __name__ == "__main__":
         <img src="https://img.shields.io/badge/AI_INTERN-1a1b26?style=for-the-badge&logo=infosys&logoColor=00c3ff&labelColor=1a1b26&color=00c3ff" alt="Infosys AI Intern Badge" />
         <br/><br/>
         <b>Infosys Springboard</b>
-        <p><i>Engineered scalable ML architectures & enterprise Generative AI integrations.</i></p>
+        <p><i>Engineered scalable ML architectures, robust RAG systems, & enterprise Generative AI integrations.</i></p>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/DEVELOPER-1a1b26?style=for-the-badge&logo=amd&logoColor=00c3ff&labelColor=1a1b26&color=00c3ff" alt="AMD Developer Badge" />
         <br/><br/>
         <b>AMD AI Program</b>
-        <p><i>Architected models utilizing specialized AMD hardware optimization frameworks.</i></p>
+        <p><i>Accelerated inference & architected models utilizing specialized AMD hardware optimization frameworks (ROCm).</i></p>
       </td>
       <td align="center" width="25%" valign="top">
         <img src="https://img.shields.io/badge/ALUMNI-1a1b26?style=for-the-badge&logo=mckinsey&logoColor=00c3ff&labelColor=1a1b26&color=00c3ff" alt="McKinsey Alumni Badge" />
@@ -244,7 +255,7 @@ if __name__ == "__main__":
         <img src="https://img.shields.io/badge/DUAL_DEGREE-1a1b26?style=for-the-badge&logo=python&logoColor=00c3ff&labelColor=1a1b26&color=00c3ff" alt="Dual Degree Badge" />
         <br/><br/>
         <b>IIT Madras & SIET</b>
-        <p><i>Simultaneously mastering Data Science & Computer Science Engineering.</i></p>
+        <p><i>Specializing in ML mathematical foundations while mastering Computer Science Engineering.</i></p>
       </td>
     </tr>
   </table>
@@ -266,8 +277,8 @@ if __name__ == "__main__":
       <td width="50%" align="center" valign="top">
         <h3>🌱 Currently Learning</h3>
         <ul align="left">
-          <li>⚡ Multi-Agent RAG Architectures</li>
-          <li>⚡ Hardware Acceleration in AI (AMD ROCm)</li>
+          <li>⚡ <b>Multi-Agent RAG Architectures</b> (LangChain, AutoGen)</li>
+          <li>⚡ <b>Hardware Acceleration in AI</b> (AMD ROCm, TensorRT)</li>
           <li>⚡ Advanced Edge Computing</li>
         </ul>
       </td>
