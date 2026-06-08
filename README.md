@@ -1,157 +1,114 @@
-# ⚡ NITISH R.G | Architecting the Future of AI
+# Nitish R.G
 
-<div align="center">
-  <a href="https://github.com/NITISH-R-G">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=300&section=header&text=Nitish%20R.G&fontSize=85&fontAlignY=32&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%26%20AI%20Practitioner&descAlignY=55&descAlign=50" alt="Nitish R.G Header" width="100%"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00c3ff&center=true&vCenter=true&random=false&width=900&lines=%3E_System.out.println(%22Architecting+Scalable+Neural+Networks%22);%3E_Turning+Complex+Data+Into+Actionable+Intelligence;%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_Innovating+at+the+Intersection+of+Data+%26+Design" alt="Typing Animation: Transforming data into intelligence" />
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/">
-    <img src="https://img.shields.io/badge/LinkedIn-00c3ff?style=for-the-badge&logo=linkedin&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://twitter.com/NITISH_R_G">
-    <img src="https://img.shields.io/badge/Twitter-00c3ff?style=for-the-badge&logo=x&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Follow on Twitter" />
-  </a>
-  <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
-    <img src="https://img.shields.io/badge/Interactive_Portfolio-00c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Visit my Interactive Portfolio" />
-  </a>
-  <a href="mailto:nitishrg.8220psgps2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00c3ff?style=for-the-badge&logo=gmail&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Send me an Email" />
-  </a>
-  <br /><br />
-</div>
-
-<table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
+<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="0">
   <tr>
-    <td align="center">
-      <a href="https://github.com/NITISH-R-G">
-        <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=UNIQUE+SYSTEM+VISITS&labelColor=1a1b26" alt="Total Profile Views" />
-      </a>
+    <td width="60%" valign="middle">
+      <h1>Architecting the Future of AI</h1>
+      <p><b>Data Science & AI Practitioner</b></p>
+      <br />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00c3ff&vCenter=true&random=false&width=600&lines=%3E_System.out.println(%22Turning+Complex+Data+Into+Actionable+Intelligence%22);%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_Architecting+Scalable+Neural+Networks" alt="Typing Animation: Transforming data into intelligence" />
+      <br /><br />
+      <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/"><img src="https://img.shields.io/badge/LinkedIn-00c3ff?style=for-the-badge&logo=linkedin&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Connect on LinkedIn" /></a>
+      <a href="https://mac-os-portfolio-nine-beryl.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-00c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Visit my Interactive Portfolio" /></a>
+      <a href="mailto:nitishrg.8220psgps2020@gmail.com"><img src="https://img.shields.io/badge/Email-00c3ff?style=for-the-badge&logo=gmail&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Send me an Email" /></a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
     </td>
   </tr>
 </table>
 
-<br />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
-
-## 🧠 About Me
-
-<table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
+<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="0">
   <tr>
     <td width="100%" valign="top">
-      <h3>🚀 Initializing Intelligence Sequence...</h3>
+      <h2>About Me</h2>
       <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. I specialize in architecting intelligent systems, blending heavy-duty data engineering with bleeding-edge AI models to solve real-world problems.</p>
       <p>From crafting large language model workflows to optimizing data pipelines, my objective is simple: <b>turning complex data into actionable intelligence</b>.</p>
       <br />
-      <h4>⚡ Runtime Telemetry:</h4>
+      <h3>Current Focus:</h3>
       <ul>
         <li>🌱 <b>Currently training:</b> Multi-agent architectures and RAG pipelines.</li>
         <li>💡 <b>Exploring:</b> Real-time Computer Vision and Hardware Acceleration (AMD AI).</li>
         <li>💬 <b>Ask me about:</b> Next-Gen AI Integration or Full-Stack ML applications.</li>
-        <li>🤖 <b>System Joke:</b> <i>Why did the neural network break up with the decision tree? It found someone more fully connected!</i></li>
       </ul>
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <div align="center">
   <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="10">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=00c3ff&icon_color=00c3ff&text_color=a9b1d6&bg_color=00000000&rank_icon=github&border_radius=10" alt="GitHub Global Statistics" width="100%" />
+        <img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00c3ff&bg_color=00000000&border_radius=10" alt="Most Used GitHub Languages" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&ring=00c3ff&fire=00c3ff&currStreakNum=00c3ff&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6&background=00000000&border_radius=10" alt="GitHub Contribution Streak Statistics" />
-      </td>
-    </tr>
   </table>
+  <br />
+  <a href="https://github.com/NITISH-R-G">
+    <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=UNIQUE+SYSTEM+VISITS&labelColor=1a1b26" alt="Total Profile Views" />
+  </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## 🛠️ Tech Stack
+## Core Capabilities
 
-<div align="center">
-  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🧠 Neural & Data Nodes</h3>
-        <p><i>Building and training the future.</i></p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter,anaconda,huggingface,r,julia&perline=6&theme=dark" alt="AI, Machine Learning, and Data Science Nodes" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>🌐 Web & Backend Nodes</h3>
-        <p><i>Crafting seamless digital experiences.</i></p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,flask,fastapi,dart,flutter,tailwind,html,css,js&perline=6&theme=dark" alt="Web and Application Development Nodes" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>☁️ Infrastructure & DevOps</h3>
-        <p><i>Scaling architectures securely.</i></p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=6&theme=dark" alt="Database, DevOps, and Cloud Nodes" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>⚙️ Engineering Tools</h3>
-        <p><i>Designing with precision.</i></p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,postman,vscode,vim,ubuntu,windows&perline=6&theme=dark" alt="Design, Prototyping, and Environment Nodes" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Machine Learning & Data Engineering</h3>
+      <p>Building high-performance neural networks, LLM agents, and scalable data pipelines.</p>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,matlab,jupyter&perline=5&theme=dark" alt="AI and Machine Learning Nodes" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full-Stack & Cloud Architecture</h3>
+      <p>Crafting robust backends, seamless digital experiences, and scalable cloud infrastructure.</p>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,fastapi,docker,aws,postgres&perline=5&theme=dark" alt="Web and Application Development Nodes" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## 🚀 Projects
+## Featured Projects
 
-<div align="center">
-  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🍎 MacOS Interactive Web Portfolio</h3>
-        <p>An intricate, deeply interactive web experience engineered to perfectly emulate the macOS environment. Not just a portfolio, but a technical showcase of UI/UX precision, complex state management, and modern web capabilities.</p>
-        <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
-          <img src="https://img.shields.io/badge/Execute_Demo-%2300c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26" alt="Live Demo Mac OS Portfolio" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>📄 The Engineering Blueprint</h3>
-        <p>A comprehensive log of my entire technical trajectory. Discover my full data science background, artificial intelligence models built, engineering milestones achieved, and the direct impact of my project portfolio.</p>
-        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-          <img src="https://img.shields.io/badge/Read_Blueprint-%2300c3ff?style=for-the-badge&logo=googledrive&logoColor=1a1b26&labelColor=1a1b26" alt="View Technical Resume" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍎 MacOS Interactive Web Portfolio</h3>
+      <p>An intricate web experience engineered to perfectly emulate the macOS environment. A technical showcase of UI/UX precision, complex state management, and modern web capabilities.</p>
+      <br />
+      <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
+        <img src="https://img.shields.io/badge/Launch_Application-%2300c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26" alt="Live Demo Mac OS Portfolio" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Engineering Portfolio</h3>
+      <p>A comprehensive log of my technical trajectory. Contains documentation on RAG pipelines, multi-agent architectures, and real-time computer vision models trained from scratch.</p>
+      <br />
+      <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
+        <img src="https://img.shields.io/badge/View_Architecture-%2300c3ff?style=for-the-badge&logo=googledrive&logoColor=1a1b26&labelColor=1a1b26" alt="View Technical Resume" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## 🏆 Experience
+## Experience
 
 <div align="center">
   <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -190,9 +147,9 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## 🔍 More About Me
+## More About Me
 
 <div align="center">
   <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
@@ -217,7 +174,7 @@
   </table>
 </div>
 
-## 🌐 GitHub Activity
+## GitHub Activity
 
 <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -246,7 +203,7 @@
 
 <br />
 
-### 📡 Recent Commits & PRs
+### Recent Commits & PRs
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#244](https://github.com/NITISH-R-G/PedagogyX/pull/244) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
