@@ -249,6 +249,11 @@
 ### 📡 Recent Commits & PRs
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#244](https://github.com/NITISH-R-G/PedagogyX/pull/244) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+2. 🎉 Merged PR [#168](https://github.com/NITISH-R-G/RoadSOS/pull/168) in [NITISH-R-G/RoadSOS](https://github.com/NITISH-R-G/RoadSOS)
+3. 💪 Opened PR [#243](https://github.com/NITISH-R-G/PedagogyX/pull/243) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+4. 💪 Opened PR [#242](https://github.com/NITISH-R-G/PedagogyX/pull/242) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+5. 💪 Opened PR [#241](https://github.com/NITISH-R-G/PedagogyX/pull/241) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
 <!--END_SECTION:activity-->
 
 <br />
