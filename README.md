@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## GitHub Statistics
 
@@ -56,7 +56,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## Core Capabilities
 
@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## Featured Projects
 
@@ -106,7 +106,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## Experience
 
@@ -147,7 +147,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" aria-hidden="true" width="100%" />
 
 ## More About Me
 
