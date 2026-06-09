@@ -149,6 +149,10 @@ if __name__ == "__main__":
       </td>
     </tr>
   </table>
+  <br />
+  <a href="https://github.com/NITISH-R-G">
+    <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=UNIQUE+SYSTEM+VISITS&labelColor=1a1b26" alt="Total Profile Views" />
+  </a>
 </div>
 
 <br />
@@ -259,6 +263,18 @@ if __name__ == "__main__":
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00c3ff&style=flat-square" alt="Profile Views" />
 </div>
+
+<br />
+
+### Recent Commits & PRs
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#251](https://github.com/NITISH-R-G/PedagogyX/pull/251) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+2. 💪 Opened PR [#250](https://github.com/NITISH-R-G/PedagogyX/pull/250) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+3. 💪 Opened PR [#249](https://github.com/NITISH-R-G/PedagogyX/pull/249) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+4. 💪 Opened PR [#248](https://github.com/NITISH-R-G/PedagogyX/pull/248) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+5. 💪 Opened PR [#247](https://github.com/NITISH-R-G/PedagogyX/pull/247) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+<!--END_SECTION:activity-->
 
 <br />
 
