@@ -67,7 +67,7 @@ if __name__ == "__main__":
     print(me.get_mission())
 ```
 
-<br />
+<!-- 🕵️‍♂️ Easter Egg: Ah, you're inspecting the source code! If you're a recruiter or startup founder looking for an AI engineer who builds scalable systems, let's talk: nitishrg.8220psgps2020@gmail.com -->
 
 ---
 
@@ -186,22 +186,25 @@ if __name__ == "__main__":
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Founder Timeline & Startup Journey
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+      <td width="50%" valign="top">
+        <h3>🌟 Building @ GDIN</h3>
+        <p>Driving innovation and building scalable systems. Focused on rapid prototyping, MVP development, and scaling AI architectures.</p>
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="Top Languages" />
+        <h3>🤝 Open to Collaboration</h3>
+        <p>Actively looking to connect with YC founders, open-source maintainers, and innovators building the future of AI.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🗓️ Milestones</h3>
+        <ul>
+          <li><b>Current:</b> Architecting AI solutions & expanding GDIN.</li>
+          <li><b>Past:</b> Scaled ML pipelines @ Infosys Springboard.</li>
+          <li><b>Foundation:</b> Dual-degree in Data Science (IIT Madras) & CSE (SIET).</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -209,13 +212,55 @@ if __name__ == "__main__":
 
 <br />
 
+---
+
+## 🧠 AI Builder Ecosystem
+
 <div align="center">
-  <h3>🐍 Contributions Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg">
-  </picture>
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top" bgcolor="#0d1117">
+        <h3>🔍 Focus Areas</h3>
+        <ul>
+            <li>Large Language Models (LLMs) & RAG</li>
+            <li>Computer Vision & Image Processing</li>
+            <li>Full-Stack ML Integration</li>
+            <li>Data Engineering & Pipeline Optimization</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" bgcolor="#0d1117">
+        <h3>🛠️ Tech Arsenal</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,langchain,docker,aws,linux&perline=6" alt="AI & DevOps Skills" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+## 🎙️ Speaking, Hackathons & Certifications
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="33%" valign="top">
+        <h3>🎤 Speaking/Events</h3>
+        <p>Active participant in tech meetups and AI symposiums. Passionate about sharing knowledge on ML scalability and data architecture.</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🏆 Hackathons</h3>
+        <p>Veteran of multiple high-stakes hackathons. Specialized in rapid prototyping and delivering functional, AI-driven MVPs under pressure.</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>📜 Certifications</h3>
+        <p>Continuously upgrading skills. Highlights include McKinsey Forward Alumni and specialized AI programs from top-tier institutions.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -281,3 +326,118 @@ if __name__ == "__main__":
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
 </div>
+
+<br />
+
+---
+
+## 📊 Comprehensive Dashboards
+
+### 📈 GitHub Metrics & Open Source Impact
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/main/github-metrics.svg">
+    <img src="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  </picture>
+</div>
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="10" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NITISH-R-G&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⏱️ WakaTime Coding Stats
+
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
+### 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/NITISH-R-G?theme=Dark" alt="LeetCode Stats" />
+</div>
+
+### 🏅 Holopin Badges & Achievement Wall
+
+<div align="center">
+  <a href="https://holopin.io/@nitishrg">
+    <img src="https://holopin.me/nitishrg" alt="Holopin Board" />
+  </a>
+</div>
+
+<br />
+
+### 🐍 Contribution Snake (GitHub Wrapped)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br />
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+## ⚡ Activity Feed
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#251](https://github.com/NITISH-R-G/PedagogyX/pull/251) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+2. 💪 Opened PR [#250](https://github.com/NITISH-R-G/PedagogyX/pull/250) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+3. 💪 Opened PR [#249](https://github.com/NITISH-R-G/PedagogyX/pull/249) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+4. 💪 Opened PR [#248](https://github.com/NITISH-R-G/PedagogyX/pull/248) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+5. 💪 Opened PR [#247](https://github.com/NITISH-R-G/PedagogyX/pull/247) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+<!--END_SECTION:activity-->
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Live%20Visitor%20Analytics&color=00c3ff&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
+</div>
+
+---
+
+### 📜 Attribution
+
+This profile utilizes several open-source tools and components. Special thanks to:
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) (MIT License)
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (MIT License)
+- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (MIT License)
+- [Platane/snk](https://github.com/Platane/snk) (MIT License)
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) (MIT License)
+- [athul/waka-readme](https://github.com/athul/waka-readme) (MIT License)
+- [holopin/holopin](https://github.com/holopin)
+- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) (MIT License)
+- [JayantGoel0012/geeksforgeeks-stats-card](https://github.com/JayantGoel0012/geeksforgeeks-stats-card) (MIT License)
