@@ -4,9 +4,9 @@
   <tr>
     <td width="60%" valign="middle">
       <h1>Architecting the Future of AI</h1>
-      <p><b>Data Science & AI Practitioner</b></p>
+      <p><b>Data Science & AI Practitioner | Dual-Degree Engineer</b></p>
       <br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00c3ff&vCenter=true&random=false&width=600&lines=%3E_System.out.println(%22Turning+Complex+Data+Into+Actionable+Intelligence%22);%3E_Building+Autonomous+AI+Agents;%3E_Bridging+Hardware+and+Intelligence;%3E_Architecting+Scalable+Neural+Networks" alt="Typing Animation: Transforming data into intelligence" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00c3ff&vCenter=true&random=false&width=600&lines=Turning+Complex+Data+Into+Actionable+Intelligence;Building+Autonomous+AI+Agents;Bridging+Hardware+and+Intelligence;Architecting+Scalable+Neural+Networks" alt="Typing Animation: Transforming data into intelligence" />
       <br /><br />
       <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/"><img src="https://img.shields.io/badge/LinkedIn-00c3ff?style=for-the-badge&logo=linkedin&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Connect on LinkedIn" /></a>
       <a href="https://mac-os-portfolio-nine-beryl.vercel.app/"><img src="https://img.shields.io/badge/Interactive_Portfolio-00c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26&color=00c3ff" alt="Visit my Interactive Portfolio" /></a>
@@ -18,18 +18,19 @@
   </tr>
 </table>
 
+## ✦ The Architecture of Me
+
 <table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="0">
   <tr>
     <td width="100%" valign="top">
-      <h2>About Me</h2>
       <p>I am a dual-degree student at <b>IIT Madras (BS in Data Science)</b> and <b>SIET (BE in Computer Science)</b>. I specialize in architecting intelligent systems, blending heavy-duty data engineering with bleeding-edge AI models to solve real-world problems.</p>
       <p>From crafting large language model workflows to optimizing data pipelines, my objective is simple: <b>turning complex data into actionable intelligence</b>.</p>
       <br />
-      <h3>Current Focus:</h3>
+      <h3>Current Focus & Trajectory:</h3>
       <ul>
-        <li>🌱 <b>Currently training:</b> Multi-agent architectures and RAG pipelines.</li>
-        <li>💡 <b>Exploring:</b> Real-time Computer Vision and Hardware Acceleration (AMD AI).</li>
-        <li>💬 <b>Ask me about:</b> Next-Gen AI Integration or Full-Stack ML applications.</li>
+        <li>🌱 <b>Currently training:</b> Multi-agent architectures and RAG pipelines (LangChain, AutoGen).</li>
+        <li>💡 <b>Exploring:</b> Real-time Computer Vision and Hardware Acceleration (AMD ROCm, TensorRT).</li>
+        <li>💬 <b>Ask me about:</b> Next-Gen AI Integration, Full-Stack ML applications, or surviving a dual-degree program.</li>
       </ul>
     </td>
   </tr>
@@ -37,7 +38,32 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## GitHub Statistics
+## ✦ Technical Arsenal
+
+<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="10">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning & AI</h3>
+      <p>Building high-performance neural networks, autonomous LLM agents, and scalable data pipelines.</p>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,matlab,jupyter&perline=5&theme=dark" alt="AI and Machine Learning Nodes" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Full-Stack & Architecture</h3>
+      <p>Crafting robust backends, seamless digital experiences, and fault-tolerant cloud infrastructure.</p>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,fastapi,docker,aws,postgres&perline=5&theme=dark" alt="Web and Application Development Nodes" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
+
+## ✦ System Analytics
 
 <div align="center">
   <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="10">
@@ -58,38 +84,13 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## Core Capabilities
+## ✦ Projects & Innovation Hub
 
 <table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="10">
   <tr>
     <td width="50%" valign="top">
-      <h3>Machine Learning & Data Engineering</h3>
-      <p>Building high-performance neural networks, LLM agents, and scalable data pipelines.</p>
-      <br />
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,matlab,jupyter&perline=5&theme=dark" alt="AI and Machine Learning Nodes" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Full-Stack & Cloud Architecture</h3>
-      <p>Crafting robust backends, seamless digital experiences, and scalable cloud infrastructure.</p>
-      <br />
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,django,fastapi,docker,aws,postgres&perline=5&theme=dark" alt="Web and Application Development Nodes" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
-
-## Featured Projects
-
-<table role="presentation" width="100%" border="0" cellpadding="20" cellspacing="10">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍎 MacOS Interactive Web Portfolio</h3>
-      <p>An intricate web experience engineered to perfectly emulate the macOS environment. A technical showcase of UI/UX precision, complex state management, and modern web capabilities.</p>
+      <h3>🍎 macOS Interactive Web Portfolio</h3>
+      <p>An intricate web experience engineered to perfectly emulate the macOS environment. A technical showcase of UI/UX precision, complex state management, and modern web capabilities built with Next.js and React.</p>
       <br />
       <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
         <img src="https://img.shields.io/badge/Launch_Application-%2300c3ff?style=for-the-badge&logo=vercel&logoColor=1a1b26&labelColor=1a1b26" alt="Live Demo Mac OS Portfolio" />
@@ -97,7 +98,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🧠 AI Engineering Portfolio</h3>
-      <p>A comprehensive log of my technical trajectory. Contains documentation on RAG pipelines, multi-agent architectures, and real-time computer vision models trained from scratch.</p>
+      <p>A comprehensive log of my technical trajectory. Contains documentation on RAG pipelines, multi-agent architectures, and real-time computer vision models trained from scratch to deployment.</p>
       <br />
       <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
         <img src="https://img.shields.io/badge/View_Architecture-%2300c3ff?style=for-the-badge&logo=googledrive&logoColor=1a1b26&labelColor=1a1b26" alt="View Technical Resume" />
@@ -108,7 +109,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## Experience
+## ✦ Experience & Credibility
 
 <div align="center">
   <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="0">
@@ -149,32 +150,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Aqua Line Separator" aria-hidden="true" width="100%" />
 
-## More About Me
-
-<div align="center">
-  <table role="presentation" width="100%" border="0" cellpadding="15" cellspacing="10">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h3>🌱 Currently Learning</h3>
-        <ul align="left">
-          <li>⚡ <b>Multi-Agent RAG Architectures</b> (LangChain, AutoGen)</li>
-          <li>⚡ <b>Hardware Acceleration in AI</b> (AMD ROCm, TensorRT)</li>
-          <li>⚡ Advanced Edge Computing</li>
-        </ul>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h3>💬 Ask Me About</h3>
-        <ul align="left">
-          <li>🚀 Full-Stack ML Integrations</li>
-          <li>🚀 Developing Scalable AI Systems</li>
-          <li>🚀 Dual Degree Engineering Survival</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## GitHub Activity
+## ✦ Real-time Metrics
 
 <table role="presentation" width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
