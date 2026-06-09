@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Building @ GDIN, Data Science & AI Practitioner, AI Intern @ Infosys Springboard, AMD AI Developer Program, BS DS @ IIT Madras | BE CSE @ SIET, McKinsey Forward Alumni" />
 </div>
 
 <div align="center">
@@ -91,9 +91,9 @@ if __name__ == "__main__":
       <td width="50%" valign="top">
         <h3>🏢 Professional Experience</h3>
         <ul>
-          <li><b>AI Intern</b> @ <a href="#">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
-          <li><b>Developer</b> @ <a href="#">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
-          <li><b>Alumni</b> @ <a href="#">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
+          <li><b>AI Intern</b> @ <b>Infosys Springboard</b><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
+          <li><b>Developer</b> @ <b>AMD AI Developer Program</b><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
+          <li><b>Alumni</b> @ <b>McKinsey Forward</b><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
         </ul>
         <br/>
         <h3>🎓 Academic Pursuits</h3>
@@ -295,12 +295,12 @@ if __name__ == "__main__":
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/NITISH-R-G"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/NITISH_R_G"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://dev.to/nitish_r_g"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://medium.com/@nitishrg.8220psgps2020"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/32586049/nitish-r-g"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://github.com/NITISH-R-G" aria-label="Visit my GitHub profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/" aria-label="Visit my LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/NITISH_R_G" aria-label="Visit my Twitter profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://dev.to/nitish_r_g" aria-label="Visit my Dev.to profile"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://medium.com/@nitishrg.8220psgps2020" aria-label="Visit my Medium profile"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/32586049/nitish-r-g" aria-label="Visit my Stack Overflow profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
 </div>
 
 <br />
