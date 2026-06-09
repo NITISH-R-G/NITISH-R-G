@@ -24,6 +24,7 @@
 
 ```python
 import datetime
+import random
 from typing import Dict, List, Optional, Union
 
 class Developer:
@@ -56,6 +57,17 @@ class Developer:
     def get_mission(self) -> str:
         """Returns the current mission."""
         return "Turning complex data into actionable intelligence 🚀"
+
+    def generate_system_joke(self) -> str:
+        """Retrieves a highly relevant developer joke."""
+        jokes = [
+            "Why did the neural network break up with the decision tree? It found someone more fully connected! 💔🕸️",
+            "A SQL query goes into a bar, walks up to two tables and asks... 'Can I join you?' 🍻🗄️",
+            "I'd tell you a joke about UDP, but you probably wouldn't get it. 📡💨",
+            "There are 10 types of people in this world: those who understand binary, and those who don't. 💻🔢",
+            "Why do programmers prefer dark mode? Because light attracts bugs! 🐛🌑"
+        ]
+        return random.choice(jokes)
 
     def get_daily_status(self) -> str:
         """Returns the current operational status."""
