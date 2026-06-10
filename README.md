@@ -74,7 +74,7 @@ if __name__ == "__main__":
 ## 🌟 About Me & Experience
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top">
         <h3>🚀 Executive Summary</h3>
@@ -91,9 +91,9 @@ if __name__ == "__main__":
       <td width="50%" valign="top">
         <h3>🏢 Professional Experience</h3>
         <ul>
-          <li><b>AI Intern</b> @ <a href="#">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
-          <li><b>Developer</b> @ <a href="#">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
-          <li><b>Alumni</b> @ <a href="#">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
+          <li><b>AI Intern</b> @ <span>Infosys Springboard</span><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
+          <li><b>Developer</b> @ <span>AMD AI Developer Program</span><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
+          <li><b>Alumni</b> @ <span>McKinsey Forward</span><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
         </ul>
         <br/>
         <h3>🎓 Academic Pursuits</h3>
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3>🧠 AI, ML & Data Science</h3>
@@ -162,7 +162,7 @@ if __name__ == "__main__":
 ## 🚀 Projects & Portfolio
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
@@ -189,7 +189,7 @@ if __name__ == "__main__":
 ## 🚀 Founder Timeline & Startup Journey
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top">
         <h3>🌟 Building @ GDIN</h3>
@@ -217,7 +217,7 @@ if __name__ == "__main__":
 ## 🧠 AI Builder Ecosystem
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🔍 Focus Areas</h3>
@@ -245,7 +245,7 @@ if __name__ == "__main__":
 ## 🎙️ Speaking, Hackathons & Certifications
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="33%" valign="top">
         <h3>🎤 Speaking/Events</h3>
@@ -270,7 +270,7 @@ if __name__ == "__main__":
 ## 🏆 Achievements & Credibility
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td bgcolor="#0d1117">
         <details>
@@ -344,7 +344,7 @@ if __name__ == "__main__":
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="10" width="100%">
+  <table role="presentation" border="0" cellpadding="0" cellspacing="10" width="100%">
     <tr>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" />
