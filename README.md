@@ -74,7 +74,7 @@ if __name__ == "__main__":
 ## ⚡ `SYSTEM_STATUS`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🚀 Executive Summary</h3>
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 ## 🛠️ `TECH_STACK_SHOWCASE`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3>🧠 AI, ML & Data Science</h3>
@@ -158,7 +158,7 @@ if __name__ == "__main__":
 ## ⚔️ `PROJECT_WAR_ROOM`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
@@ -183,7 +183,7 @@ if __name__ == "__main__":
 </div>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
@@ -210,7 +210,7 @@ if __name__ == "__main__":
 ## 📈 `FOUNDER_DASHBOARD`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🌟 Building @ GDIN</h3>
@@ -238,7 +238,7 @@ if __name__ == "__main__":
 ## 🎙️ `SPEAKING_AND_HACKATHONS`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="33%" valign="top" bgcolor="#0d1117">
         <h3>🎤 Speaking/Events</h3>
@@ -263,7 +263,7 @@ if __name__ == "__main__":
 ## 🏆 `ACHIEVEMENTS_AND_CREDIBILITY`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td bgcolor="#0d1117">
         <details>
@@ -321,7 +321,7 @@ if __name__ == "__main__":
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="10" width="100%">
+  <table role="presentation" border="0" cellpadding="0" cellspacing="10" width="100%">
     <tr>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c3ff" alt="GitHub Stats" />
