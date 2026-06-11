@@ -314,11 +314,11 @@ if __name__ == "__main__":
 ### Recent Commits & PRs
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#92](https://github.com/NITISH-R-G/rag-context-optimizer/pull/92) in [NITISH-R-G/rag-context-optimizer](https://github.com/NITISH-R-G/rag-context-optimizer)
-2. 💪 Opened PR [#263](https://github.com/NITISH-R-G/PedagogyX/pull/263) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-3. 💪 Opened PR [#262](https://github.com/NITISH-R-G/PedagogyX/pull/262) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-4. 💪 Opened PR [#261](https://github.com/NITISH-R-G/PedagogyX/pull/261) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-5. 💪 Opened PR [#260](https://github.com/NITISH-R-G/PedagogyX/pull/260) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+1. 💪 Opened PR [#270](https://github.com/NITISH-R-G/PedagogyX/pull/270) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+2. 💪 Opened PR [#269](https://github.com/NITISH-R-G/PedagogyX/pull/269) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+3. 💪 Opened PR [#268](https://github.com/NITISH-R-G/PedagogyX/pull/268) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+4. 💪 Opened PR [#50](https://github.com/NITISH-R-G/ev-grid-oracle/pull/50) in [NITISH-R-G/ev-grid-oracle](https://github.com/NITISH-R-G/ev-grid-oracle)
+5. 💪 Opened PR [#84](https://github.com/NITISH-R-G/Intelli-Credit-V2/pull/84) in [NITISH-R-G/Intelli-Credit-V2](https://github.com/NITISH-R-G/Intelli-Credit-V2)
 <!--END_SECTION:activity-->
 
 <br />
