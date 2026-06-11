@@ -1,11 +1,11 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Hello%20World!%20I'm%20Nitish%20R.G&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Nitish%20R.G&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -71,12 +71,12 @@ if __name__ == "__main__":
 
 ---
 
-## 🌟 About Me & Experience
+## ⚡ `SYSTEM_STATUS`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🚀 Executive Summary</h3>
         <p>I thrive at the intersection of <b>Artificial Intelligence, Data Engineering, and Software Development</b>. My primary goal is to architect scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.</p>
         <p>Whether it's building robust RAG architectures, training complex computer vision models, or deploying full-stack web applications, I bring data to life.</p>
@@ -88,12 +88,12 @@ if __name__ == "__main__":
             <li>⚡ <b>Fun Fact:</b> Still trying to figure out how to exit Vim.</li>
         </ul>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🏢 Professional Experience</h3>
         <ul>
-          <li><b>AI Intern</b> @ <a href="#">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
-          <li><b>Developer</b> @ <a href="#">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
-          <li><b>Alumni</b> @ <a href="#">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
+          <li><b>AI Intern</b> @ <a href="https://infyspringboard.onwingspan.com/web/en/login">Infosys Springboard</a><br/><i>Engineered scalable ML models and explored enterprise-grade AI integrations.</i></li>
+          <li><b>Developer</b> @ <a href="https://www.amd.com/en/developer/resources/ai-developer-program.html">AMD AI Developer Program</a><br/><i>Selected as a participant to work with cutting-edge AI hardware and optimization techniques.</i></li>
+          <li><b>Alumni</b> @ <a href="https://www.mckinsey.com/careers/students/forward">McKinsey Forward</a><br/><i>Completed rigorous business strategy and leadership training program.</i></li>
         </ul>
         <br/>
         <h3>🎓 Academic Pursuits</h3>
@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ `TECH_STACK_SHOWCASE`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15">
@@ -149,17 +149,38 @@ if __name__ == "__main__":
       </td>
     </tr>
   </table>
-  <br />
-  <a href="https://github.com/NITISH-R-G">
-    <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=UNIQUE+SYSTEM+VISITS&labelColor=1a1b26" alt="Total Profile Views" />
-  </a>
 </div>
 
 <br />
 
 ---
 
-## 🚀 Projects & Portfolio
+## ⚔️ `PROJECT_WAR_ROOM`
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
+        <p><i>Advanced EdTech platform leveraging LLMs for personalized learning paths and automated assessment generation.</i></p>
+      </td>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://github.com/NITISH-R-G/PalmPlay" style="color:#00c3ff;">✋ PalmPlay</a></h3>
+        <p><i>Computer Vision based real-time gesture recognition system for hands-free application control.</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://github.com/NITISH-R-G/Intelli-Credit-V2" style="color:#00c3ff;">💳 Intelli-Credit</a></h3>
+        <p><i>ML-driven credit scoring and risk assessment engine designed for scalable financial analysis.</i></p>
+      </td>
+      <td width="50%" align="center" bgcolor="#0d1117">
+        <h3><a href="https://github.com/NITISH-R-G/CODESTREAK" style="color:#00c3ff;">🔥 CODESTREAK</a></h3>
+        <p><i>Developer productivity dashboard and analytics tool for tracking coding habits and consistency.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15">
@@ -186,19 +207,19 @@ if __name__ == "__main__":
 
 ---
 
-## 🚀 Founder Timeline & Startup Journey
+## 📈 `FOUNDER_DASHBOARD`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🌟 Building @ GDIN</h3>
         <p>Driving innovation and building scalable systems. Focused on rapid prototyping, MVP development, and scaling AI architectures.</p>
         <br/>
         <h3>🤝 Open to Collaboration</h3>
         <p>Actively looking to connect with YC founders, open-source maintainers, and innovators building the future of AI.</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🗓️ Milestones</h3>
         <ul>
           <li><b>Current:</b> Architecting AI solutions & expanding GDIN.</li>
@@ -214,48 +235,20 @@ if __name__ == "__main__":
 
 ---
 
-## 🧠 AI Builder Ecosystem
+## 🎙️ `SPEAKING_AND_HACKATHONS`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" valign="top" bgcolor="#0d1117">
-        <h3>🔍 Focus Areas</h3>
-        <ul>
-            <li>Large Language Models (LLMs) & RAG</li>
-            <li>Computer Vision & Image Processing</li>
-            <li>Full-Stack ML Integration</li>
-            <li>Data Engineering & Pipeline Optimization</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top" bgcolor="#0d1117">
-        <h3>🛠️ Tech Arsenal</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,huggingface,langchain,docker,aws,linux&perline=6" alt="AI & DevOps Skills" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
----
-
-## 🎙️ Speaking, Hackathons & Certifications
-
-<div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
-    <tr>
-      <td width="33%" valign="top">
+      <td width="33%" valign="top" bgcolor="#0d1117">
         <h3>🎤 Speaking/Events</h3>
         <p>Active participant in tech meetups and AI symposiums. Passionate about sharing knowledge on ML scalability and data architecture.</p>
       </td>
-      <td width="33%" valign="top">
+      <td width="33%" valign="top" bgcolor="#0d1117">
         <h3>🏆 Hackathons</h3>
         <p>Veteran of multiple high-stakes hackathons. Specialized in rapid prototyping and delivering functional, AI-driven MVPs under pressure.</p>
       </td>
-      <td width="33%" valign="top">
+      <td width="33%" valign="top" bgcolor="#0d1117">
         <h3>📜 Certifications</h3>
         <p>Continuously upgrading skills. Highlights include McKinsey Forward Alumni and specialized AI programs from top-tier institutions.</p>
       </td>
@@ -267,7 +260,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🏆 Achievements & Credibility
+## 🏆 `ACHIEVEMENTS_AND_CREDIBILITY`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="15">
@@ -292,7 +285,7 @@ if __name__ == "__main__":
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 `NETWORK_GRAPH`
 
 <div align="center">
   <a href="https://github.com/NITISH-R-G"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -306,32 +299,16 @@ if __name__ == "__main__":
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Profile%20Views&color=00c3ff&style=flat-square" alt="Profile Views" />
-</div>
-
-<br />
-
-### Recent Commits & PRs
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/NITISH-R-G/PedagogyX/pull/270) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-2. 💪 Opened PR [#269](https://github.com/NITISH-R-G/PedagogyX/pull/269) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-3. 💪 Opened PR [#268](https://github.com/NITISH-R-G/PedagogyX/pull/268) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-4. 💪 Opened PR [#50](https://github.com/NITISH-R-G/ev-grid-oracle/pull/50) in [NITISH-R-G/ev-grid-oracle](https://github.com/NITISH-R-G/ev-grid-oracle)
-5. 💪 Opened PR [#84](https://github.com/NITISH-R-G/Intelli-Credit-V2/pull/84) in [NITISH-R-G/Intelli-Credit-V2](https://github.com/NITISH-R-G/Intelli-Credit-V2)
-<!--END_SECTION:activity-->
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
+  <a href="https://github.com/NITISH-R-G">
+    <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=for-the-badge&color=00c3ff&label=UNIQUE+SYSTEM+VISITS&labelColor=1a1b26" alt="Total Profile Views" />
+  </a>
 </div>
 
 <br />
 
 ---
 
-## 📊 Comprehensive Dashboards
+## 📊 `METRICS_AND_ANALYTICS`
 
 ### 📈 GitHub Metrics & Open Source Impact
 
@@ -369,12 +346,6 @@ if __name__ == "__main__":
   <!--END_SECTION:waka-->
 </div>
 
-### 💻 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/NITISH-R-G?theme=Dark" alt="LeetCode Stats" />
-</div>
-
 ### 🏅 Holopin Badges & Achievement Wall
 
 <div align="center">
@@ -399,45 +370,25 @@ if __name__ == "__main__":
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 `LATEST_BLOG_POSTS`
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br />
 
-## ⚡ Activity Feed
+## ⚡ `ACTIVITY_FEED`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#251](https://github.com/NITISH-R-G/PedagogyX/pull/251) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-2. 💪 Opened PR [#250](https://github.com/NITISH-R-G/PedagogyX/pull/250) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-3. 💪 Opened PR [#249](https://github.com/NITISH-R-G/PedagogyX/pull/249) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-4. 💪 Opened PR [#248](https://github.com/NITISH-R-G/PedagogyX/pull/248) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
-5. 💪 Opened PR [#247](https://github.com/NITISH-R-G/PedagogyX/pull/247) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+1. 💪 Opened PR [#270](https://github.com/NITISH-R-G/PedagogyX/pull/270) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+2. 💪 Opened PR [#269](https://github.com/NITISH-R-G/PedagogyX/pull/269) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+3. 💪 Opened PR [#268](https://github.com/NITISH-R-G/PedagogyX/pull/268) in [NITISH-R-G/PedagogyX](https://github.com/NITISH-R-G/PedagogyX)
+4. 💪 Opened PR [#50](https://github.com/NITISH-R-G/ev-grid-oracle/pull/50) in [NITISH-R-G/ev-grid-oracle](https://github.com/NITISH-R-G/ev-grid-oracle)
+5. 💪 Opened PR [#84](https://github.com/NITISH-R-G/Intelli-Credit-V2/pull/84) in [NITISH-R-G/Intelli-Credit-V2](https://github.com/NITISH-R-G/Intelli-Credit-V2)
 <!--END_SECTION:activity-->
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&label=Live%20Visitor%20Analytics&color=00c3ff&style=flat-square" alt="Profile Views" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=100&section=footer" alt="Footer Banner" />
 </div>
-
----
-
-### 📜 Attribution
-
-This profile utilizes several open-source tools and components. Special thanks to:
-
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) (MIT License)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (MIT License)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (MIT License)
-- [Platane/snk](https://github.com/Platane/snk) (MIT License)
-- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) (MIT License)
-- [athul/waka-readme](https://github.com/athul/waka-readme) (MIT License)
-- [holopin/holopin](https://github.com/holopin)
-- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) (MIT License)
-- [JayantGoel0012/geeksforgeeks-stats-card](https://github.com/JayantGoel0012/geeksforgeeks-stats-card) (MIT License)
