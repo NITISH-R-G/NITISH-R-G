@@ -1,11 +1,11 @@
 # Nitish R.G
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=Nitish%20R.G&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=250&section=header&text=NITISH_OS%20v2.0&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c3ff&center=true&vCenter=true&width=800&lines=Building+%40+GDIN;Data+Science+%26+AI+Practitioner;AI+Intern+%40+Infosys+Springboard;AMD+AI+Developer+Program;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;McKinsey+Forward+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00c3ff&center=true&vCenter=true&width=900&lines=%5BINITIALIZING_SYSTEM...%5D;%3E_ROLE%3A+Data+Science+%26+AI+Practitioner;%3E_BUILDING+%40+GDIN;%3E_AI+Intern+%40+Infosys+Springboard;%3E_AMD+AI+Developer+Program;%3E_DUAL_DEGREE%3A+BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;%3E_STATUS%3A+Deploying+scalable+AI+models" alt="Typing Terminal Boot" />
 </div>
 
 <div align="center">
@@ -84,9 +84,15 @@ if __name__ == "__main__":
         <h3>🤝 Let's Collaborate</h3>
         <p>Open to innovative projects in AI, ML, and data-centric software solutions.</p>
         <ul>
+            <li>💬 <b>Ask me about:</b> Scalable RAG Pipelines, Vision Transformers, and building MVPs.</li>
             <li>📫 <b>How to reach me:</b> <a href="mailto:nitishrg.8220psgps2020@gmail.com">nitishrg.8220psgps2020@gmail.com</a></li>
-            <li>⚡ <b>Fun Fact:</b> Still trying to figure out how to exit Vim.</li>
+            <li>⚡ <b>Fun Fact:</b> Still trying to figure out how to exit Vim. <code>:wq!</code></li>
+            <li>🤖 <b>Developer Joke:</b> Why do programmers prefer dark mode? Because light attracts bugs!</li>
         </ul>
+        <br/>
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=NITISH-R-G&style=flat-square&color=00c3ff&label=SYSTEM+BOOTS&labelColor=1a1b26" alt="System Boots" />
+        </p>
       </td>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🏢 Professional Experience</h3>
@@ -101,10 +107,43 @@ if __name__ == "__main__":
             <li><b>BS in Data Science</b> @ IIT Madras</li>
             <li><b>BE in Computer Science Engineering</b> @ SIET</li>
         </ul>
+        <br/>
+        <h3>📚 Currently Learning</h3>
+        <p>Advanced Agentic Workflows and Web3 Architecture.</p>
       </td>
     </tr>
   </table>
 </div>
+
+<br />
+
+---
+
+## 🧠 `NEURAL_ARCHITECTURE`
+
+```mermaid
+graph TD;
+    A[Nitish R.G] --> B(Data Science & AI);
+    A --> C(Full-Stack Dev);
+    A --> D(Cloud & DevOps);
+
+    B --> B1[PyTorch / TensorFlow];
+    B --> B2[Computer Vision / OpenCV];
+    B --> B3[LLMs / LangChain / HuggingFace];
+
+    C --> C1[React / Next.js];
+    C --> C2[Node.js / Express];
+    C --> C3[Python FastApi / Django];
+
+    D --> D1[AWS / Linux];
+    D --> D2[Docker / Git];
+    D --> D3[Postgres / MongoDB];
+
+    style A fill:#0d1117,stroke:#00c3ff,stroke-width:2px,color:#fff
+    style B fill:#0d1117,stroke:#00c3ff,stroke-width:1px,color:#fff
+    style C fill:#0d1117,stroke:#00c3ff,stroke-width:1px,color:#fff
+    style D fill:#0d1117,stroke:#00c3ff,stroke-width:1px,color:#fff
+```
 
 <br />
 
@@ -116,35 +155,32 @@ if __name__ == "__main__":
   <table width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
-        <h3>🧠 AI, ML & Data Science</h3>
+        <h3>🗣️ Languages</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,matlab,jupyter&perline=5" alt="AI Skills" />
-        </a><br /><br />
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=anaconda,huggingface,langchain,ollama,r,julia&perline=5" alt="More AI Skills" />
+          <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,html,css,r,matlab,bash,dart,julia&perline=6" alt="Language Skills" />
         </a>
       </td>
       <td width="50%" align="center" bgcolor="#0d1117">
-        <h3>💻 Web & App Dev</h3>
+        <h3>📦 Frameworks & Libraries</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,react,nextjs,nodejs,express,django&perline=5" alt="Web Skills" />
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,opencv,react,nextjs,nodejs,express,django,flask,fastapi,bootstrap,tailwind,sass,flutter&perline=6" alt="Framework Skills" />
         </a><br /><br />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask,fastapi,dart,flutter,bootstrap,framer,tailwind,sass&perline=5" alt="More Web Skills" />
+          <img src="https://skillicons.dev/icons?i=huggingface,langchain,ollama&perline=6" alt="More Framework Skills" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
-        <h3>🗄️ Database, Cloud & DevOps</h3>
+        <h3>🛠️ Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,linux,bash,aws&perline=5" alt="DevOps Skills" />
+          <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,photoshop,blender,vscode,vim,jupyter,framer,arduino,puppeteer&perline=6" alt="Tool Skills" />
         </a>
       </td>
       <td width="50%" align="center" bgcolor="#0d1117">
-        <h3>🎨 Design & Tools</h3>
+        <h3>☁️ Platforms & DBs</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=figma,photoshop,blender,arduino,puppeteer,postman,vscode,vim,ubuntu,windows&perline=5" alt="Design Skills" />
+          <img src="https://skillicons.dev/icons?i=github,aws,linux,ubuntu,windows,mysql,postgres,mongodb,firebase,anaconda&perline=6" alt="Platform Skills" />
         </a>
       </td>
     </tr>
@@ -163,20 +199,36 @@ if __name__ == "__main__":
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
         <p><i>Advanced EdTech platform leveraging LLMs for personalized learning paths and automated assessment generation.</i></p>
+        <p><b>Impact:</b> Scalable assessment generation via AI.</p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink" alt="LangChain" />
+        <img src="https://img.shields.io/badge/LLMs-00c3ff?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
       </td>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PalmPlay" style="color:#00c3ff;">✋ PalmPlay</a></h3>
         <p><i>Computer Vision based real-time gesture recognition system for hands-free application control.</i></p>
+        <p><b>Impact:</b> Hands-free accessibility and interface control.</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/MediaPipe-00c3ff?style=flat-square&logo=google" alt="MediaPipe" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/Intelli-Credit-V2" style="color:#00c3ff;">💳 Intelli-Credit</a></h3>
         <p><i>ML-driven credit scoring and risk assessment engine designed for scalable financial analysis.</i></p>
+        <p><b>Impact:</b> High-accuracy financial risk modeling.</p>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       </td>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/CODESTREAK" style="color:#00c3ff;">🔥 CODESTREAK</a></h3>
         <p><i>Developer productivity dashboard and analytics tool for tracking coding habits and consistency.</i></p>
+        <p><b>Impact:</b> Actionable developer productivity insights.</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </td>
     </tr>
   </table>
