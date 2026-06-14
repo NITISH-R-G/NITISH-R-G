@@ -22,9 +22,29 @@
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 ## 🚀 Executive Summary
+
 I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My primary goal is to architect scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
 
 Whether it's building robust RAG architectures, training complex computer vision models, or deploying full-stack web applications, I bring data to life.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Nitish R.G"
+        self.role = "Data Science & AI Practitioner"
+        self.education = {
+            "B.S.": "Data Science @ IIT Madras",
+            "B.E.": "Computer Science Engineering @ SIET"
+        }
+        self.focus = [
+            "Advanced LLMs",
+            "Computer Vision",
+            "Full-Stack ML Integration"
+        ]
+
+    def get_mission(self):
+        return "Turning complex data into actionable intelligence 🚀"
+```
 
 ---
 
@@ -44,7 +64,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## ⚔️ `PROJECT_WAR_ROOM`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
@@ -69,7 +89,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 </div>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
@@ -94,7 +114,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## 📈 `FOUNDER_DASHBOARD` & Experience
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🌟 Building @ GDIN</h3>
@@ -119,7 +139,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 
 ---
 
-### 📈 GitHub Activity Graph:
+### 📈 GitHub Activity Graph
 
 ![NITISH-R-G's github activity graph](https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg)
 
@@ -214,6 +234,7 @@ counting of visitors to this page in this section started from May 8, 2022
 [![Star History Chart](https://api.star-history.com/svg?repos=NITISH-R-G/NITISH-R-G&type=Date)](https://star-history.com/#NITISH-R-G/NITISH-R-G&Date)
 
 ### Profile Views
+
 counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@NITISH-R-G.github.readme)
