@@ -161,13 +161,6 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" width="30%">
-</p>
 
 <img src="github-metrics.svg" alt="Metrics" width="100%">
 
@@ -196,10 +189,6 @@ graph TD;
 }
 ```
 
-![badges_37-46.png](src/badges_37-46.png)
-![badges_25-36.png](src/badges_25-36.png)
-![badges_13-24.png](src/badges_13-24.png)
-![badges_1-12.png](src/badges_1-12.png)
 
 #### Thanks for visiting :heart:
 
