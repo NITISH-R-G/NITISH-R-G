@@ -44,7 +44,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## ⚔️ `PROJECT_WAR_ROOM`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table width="100%" border="0" cellpadding="15" role="presentation">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
@@ -69,7 +69,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 </div>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table width="100%" border="0" cellpadding="15" role="presentation">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
@@ -94,7 +94,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## 📈 `FOUNDER_DASHBOARD` & Experience
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🌟 Building @ GDIN</h3>
