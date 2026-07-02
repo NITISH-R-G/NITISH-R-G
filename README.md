@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+<img src="assets/Bottom_up.svg" alt="" aria-hidden="true" />
 
 <!--   my-icons -->
 <p align="center">
@@ -44,7 +44,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## ⚔️ `PROJECT_WAR_ROOM`
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
@@ -69,7 +69,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 </div>
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
+  <table role="presentation" width="100%" border="0" cellpadding="15">
     <tr>
       <td width="50%" align="center" bgcolor="#0d1117">
         <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
@@ -94,7 +94,7 @@ Whether it's building robust RAG architectures, training complex computer vision
 ## 📈 `FOUNDER_DASHBOARD` & Experience
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+  <table role="presentation" width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
       <td width="50%" valign="top" bgcolor="#0d1117">
         <h3>🌟 Building @ GDIN</h3>
@@ -214,4 +214,4 @@ graph TD;
 *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
 
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" alt="" aria-hidden="true" />
