@@ -1,8 +1,8 @@
 # GitHub Profile Setup & Automation Guide
 
 ## Architecture Overview
-This profile uses a combination of static assets and dynamic GitHub Actions to provide a comprehensive view of a developer's activity, impact, and persona.
-- **Frontend**: README.md powered by raw HTML (primarily tables for grid layouts) and dynamic SVGs.
+This profile uses a "startup operating system" / "hacker dashboard" architecture, built with a combination of static assets and dynamic GitHub Actions to provide a premium, dynamic view of a developer's activity, impact, and persona.
+- **Frontend**: README.md designed as a custom terminal/dashboard layout powered by raw HTML (primarily tables for grid layouts) and dynamic SVGs.
 - **Backend/Automation**: GitHub Actions workflows running on schedules (cron) to fetch data from APIs (GitHub, WakaTime, Dev.to) and inject it into README.md or generate new SVG assets.
 
 ## GitHub Actions Workflows
