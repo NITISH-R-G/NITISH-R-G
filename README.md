@@ -1,109 +1,75 @@
-![](assets/Bottom_up.svg)
+<!--
+  [EASTER EGG] 🚀 Hello, fellow hacker / recruiter!
+  If you are reading this source code, you've already proven you're thorough.
+  I am Nitish R.G, and I'd love to chat about scaling AI architectures and building cool things.
+  Let's connect: nitishrg.8220psgps2020@gmail.com
+-->
 
-<!--   my-icons -->
+# 👨‍💻 `SYSTEM_STATUS`
+
 <p align="center">
-    <a href="https://github.com/NITISH-R-G/NITISH-R-G"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/NITISH-R-G/NITISH-R-G/graphs/contributors"><img src="https://img.shields.io/github/contributors/NITISH-R-G/NITISH-R-G?color=blue"></a>
-    <a href="https://github.com/NITISH-R-G/NITISH-R-G/stargazers"><img src="https://img.shields.io/github/stars/NITISH-R-G/NITISH-R-G.svg?logo=github"></a>
-    <a href="https://github.com/NITISH-R-G/NITISH-R-G/network/members"><img src="https://img.shields.io/github/forks/NITISH-R-G/NITISH-R-G.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=NITISH-R-G.NITISH-R-G" alt="visitors"/>   
+    <a href="https://github.com/NITISH-R-G/NITISH-R-G"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status" /></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="python" /></a>
+    <a href="https://github.com/NITISH-R-G/NITISH-R-G/graphs/contributors"><img src="https://img.shields.io/github/contributors/NITISH-R-G/NITISH-R-G?color=blue" alt="contributors" /></a>
+    <a href="https://github.com/NITISH-R-G/NITISH-R-G/stargazers"><img src="https://img.shields.io/github/stars/NITISH-R-G/NITISH-R-G.svg?logo=github" alt="stars" /></a>
+    <a href="https://github.com/NITISH-R-G/NITISH-R-G/network/members"><img src="https://img.shields.io/github/forks/NITISH-R-G/NITISH-R-G.svg?color=blue&logo=github" alt="forks" /></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=NITISH-R-G.NITISH-R-G" alt="visitors"/>
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<!-- Header Image -->
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" alt="Python Logo" />
+</a>
+<img src="./src/header_.png" alt="Header Image" />
 
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nitish+R.G;Welcome+to+My+Profile!;Data+Science+%26+AI+Practitioner;Building+%40+GDIN;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;AI+Intern+%40+Infosys+Springboard)](https://git.io/typing-svg)
-
-
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
-
-## 🚀 Executive Summary
-I thrive at the intersection of **Artificial Intelligence, Data Engineering, and Software Development**. My primary goal is to architect scalable, high-impact models that solve real-world problems and contribute meaningfully to the open-source ecosystem.
-
-Whether it's building robust RAG architectures, training complex computer vision models, or deploying full-stack web applications, I bring data to life.
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?color=%2300c3ff&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Nitish+R.G;Welcome+to+My+Hacker+Dashboard!;Data+Science+%26+AI+Practitioner;Building+%40+GDIN;BS+DS+%40+IIT+Madras+%7C+BE+CSE+%40+SIET;AI+Intern+%40+Infosys+Springboard;Turning+complex+data+into+actionable+intelligence+🚀" alt="Typing SVG" />
+    </a>
+</p>
 
 ---
 
-<!--   my-skils -->
+## ⚙️ `init_developer.py`
 
-| Property | Data |
-|---|---|
-| **Language / IDE** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash) |
-| **Domain Knowledge** | [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat)](https://github.com/NITISH-R-G) [![Computer Science](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat)](https://github.com/NITISH-R-G) [![Data Science](https://img.shields.io/badge/-Data%20Science-4C8CBF?style=flat)](https://github.com/NITISH-R-G) [![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat)](https://github.com/NITISH-R-G) |
-| **CI / CD & DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **AI / ML Frameworks** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat) ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **Web Frameworks** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Nitish R.G"
+        self.role = "Data Science & AI Practitioner"
+        self.education = {
+            "BS": "Data Science @ IIT Madras",
+            "BE": "Computer Science Engineering @ SIET"
+        }
+        self.focus = [
+            "Advanced LLMs",
+            "Computer Vision",
+            "Full-Stack ML Integration",
+            "Scalable AI Architectures"
+        ]
 
----
+    def get_mission(self):
+        return 'Turning complex data into actionable intelligence 🚀'
 
-## ⚔️ `PROJECT_WAR_ROOM`
-
-<div align="center">
-  <table width="100%" border="0" cellpadding="15">
-    <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://github.com/NITISH-R-G/PedagogyX" style="color:#00c3ff;">📚 PedagogyX</a></h3>
-        <p><i>Advanced EdTech platform leveraging LLMs for personalized learning paths and automated assessment generation.</i></p>
-      </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://github.com/NITISH-R-G/PalmPlay" style="color:#00c3ff;">✋ PalmPlay</a></h3>
-        <p><i>Computer Vision based real-time gesture recognition system for hands-free application control.</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://github.com/NITISH-R-G/Intelli-Credit-V2" style="color:#00c3ff;">💳 Intelli-Credit</a></h3>
-        <p><i>ML-driven credit scoring and risk assessment engine designed for scalable financial analysis.</i></p>
-      </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://github.com/NITISH-R-G/CODESTREAK" style="color:#00c3ff;">🔥 CODESTREAK</a></h3>
-        <p><i>Developer productivity dashboard and analytics tool for tracking coding habits and consistency.</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table width="100%" border="0" cellpadding="15">
-    <tr>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/" style="color:#00c3ff;">🖥️ Mac OS Style Portfolio</a></h3>
-        <p><i>Experience my work through an interactive, visually stunning Mac OS-themed web portfolio.</i></p>
-        <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
-            <img src="https://img.shields.io/badge/Live_Demo-00c3ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-      </td>
-      <td width="50%" align="center" bgcolor="#0d1117">
-        <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing" style="color:#00c3ff;">📄 Comprehensive Resume</a></h3>
-        <p><i>Dive deep into my technical background, academic achievements, and professional experience.</i></p>
-        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
-            <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+me = Developer()
+```
 
 ---
 
-## 📈 `FOUNDER_DASHBOARD` & Experience
+## 📈 `FOUNDER_DASHBOARD`
 
 <div align="center">
   <table width="100%" border="0" cellpadding="10" cellspacing="0">
     <tr>
-      <td width="50%" valign="top" bgcolor="#0d1117">
-        <h3>🌟 Building @ GDIN</h3>
-        <p>Driving innovation and building scalable systems. Focused on rapid prototyping, MVP development, and scaling AI architectures.</p>
-        <br/>
+      <td width="50%" valign="top">
+        <h3>🌟 Current Mission</h3>
+        <p>Driving innovation and building scalable systems @ <b>GDIN</b>. Focused on rapid prototyping, MVP development, and scaling AI architectures.</p>
         <h3>🤝 Open to Collaboration</h3>
         <p>Actively looking to connect with YC founders, open-source maintainers, and innovators building the future of AI.</p>
+        <h3>🤔 Ask me about</h3>
+        <p><i>Computer Vision, RAG architectures, full-stack ML, and optimizing complex systems.</i></p>
       </td>
-      <td width="50%" valign="top" bgcolor="#0d1117">
+      <td width="50%" valign="top">
         <h3>🏢 Experience & Education</h3>
         <ul>
           <li><b>AI Intern</b> @ <a href="https://infyspringboard.onwingspan.com/web/en/login">Infosys Springboard</a></li>
@@ -112,6 +78,8 @@ Whether it's building robust RAG architectures, training complex computer vision
           <li><b>BS in Data Science</b> @ IIT Madras</li>
           <li><b>BE in Computer Science Engineering</b> @ SIET</li>
         </ul>
+        <h3>🌱 Currently learning</h3>
+        <p><i>Advanced LLM optimization techniques and high-performance rust systems.</i></p>
       </td>
     </tr>
   </table>
@@ -119,37 +87,36 @@ Whether it's building robust RAG architectures, training complex computer vision
 
 ---
 
-### 📈 GitHub Activity Graph:
-
-![NITISH-R-G's github activity graph](https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake.svg)
-
-| . | . |
-|---|---|
-| ![NITISH-R-G's github stats](https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&theme=tokyonight&include_all_commits=true) | ![NITISH-R-G's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH-R-G&theme=tokyonight&layout=compact) |
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff"></img>
-
-![NITISH-R-G's github activity graph dark](https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg)
-
-<!-- profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/NITISH_R_G" target="blank"><img align="center" src="assets/twitter.svg" alt="Twitter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/" target="blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="mailto:nitishrg.8220psgps2020@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
+## 🛠️ `TECH_STACK`
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td width="50%" align="center">
+        <h3>💻 Languages & Frameworks</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,react,nextjs,django,fastapi,flask,nodejs,flutter&theme=dark&perline=6" alt="Languages and Frameworks" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🧠 AI/ML & Databases</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mysql,postgres,mongodb,firebase&theme=dark&perline=4" alt="AI ML and DB" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>☁️ Tools & Platforms</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,windows,aws&theme=dark&perline=7" alt="Tools and Platforms" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" /></a>
-</p>
+### `NEURAL_ARCHITECTURE` (Domain Focus)
 
 ```mermaid
 graph TD;
@@ -161,11 +128,157 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
+---
+
+## ⚔️ `PROJECT_WAR_ROOM`
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/NITISH-R-G/PedagogyX">📚 PedagogyX</a></h3>
+        <p><i>Advanced EdTech platform leveraging LLMs for personalized learning paths and automated assessment generation.</i></p>
+        <p><b>Impact:</b> Scalable educational delivery and personalized feedback.</p>
+        <p>
+          <img src="https://img.shields.io/badge/LLMs-FF9900?style=flat&logo=openai&logoColor=white" alt="LLMs" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/NITISH-R-G/PalmPlay">✋ PalmPlay</a></h3>
+        <p><i>Computer Vision based real-time gesture recognition system for hands-free application control.</i></p>
+        <p><b>Impact:</b> Enhanced accessibility through intuitive UI interactions.</p>
+        <p>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+          <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/NITISH-R-G/Intelli-Credit-V2">💳 Intelli-Credit</a></h3>
+        <p><i>ML-driven credit scoring and risk assessment engine designed for scalable financial analysis.</i></p>
+        <p><b>Impact:</b> Optimized risk evaluation pipelines reducing default rates.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+          <img src="https://img.shields.io/badge/Data_Science-4C8CBF?style=flat&logo=python&logoColor=white" alt="Data Science" />
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/NITISH-R-G/CODESTREAK">🔥 CODESTREAK</a></h3>
+        <p><i>Developer productivity dashboard and analytics tool for tracking coding habits and consistency.</i></p>
+        <p><b>Impact:</b> Improved engineering velocity through visual habit tracking.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="15">
+    <tr>
+      <td width="50%" align="center">
+        <h3><a href="https://mac-os-portfolio-nine-beryl.vercel.app/">🖥️ Interactive Portfolio</a></h3>
+        <p><i>Experience my work through an interactive, visually stunning Mac OS-themed web portfolio.</i></p>
+        <a href="https://mac-os-portfolio-nine-beryl.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-00c3ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3><a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">📄 Comprehensive Resume</a></h3>
+        <p><i>Dive deep into my technical background, academic achievements, and professional experience.</i></p>
+        <a href="https://drive.google.com/file/d/1lm1TLC00ThShlEi80uRtkz4rppco1w8O/view?usp=sharing">
+            <img src="https://img.shields.io/badge/View_My_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏆 `ACHIEVEMENTS_LOG`
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="33%" valign="top">
+        <h3>🎓 Certifications</h3>
+        <ul>
+          <li>Infosys Springboard AI Certified</li>
+          <li>AMD AI Developer Program</li>
+          <li>McKinsey Forward Alumni</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top">
+        <h3>💻 Hackathons</h3>
+        <ul>
+          <li>Top Contributor @ Internal Tech Dash</li>
+          <li>Winner @ GDIN Innovate 2024</li>
+        </ul>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🚀 Leadership</h3>
+        <ul>
+          <li>Team Lead @ CodeStreak Dev Team</li>
+          <li>Tech Mentor @ SIET Coding Club</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 `NETWORK_GRAPH` (Stats & Activity)
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+### 📈 GitHub Activity Graph
+
+![NITISH-R-G's github activity graph dark](https://raw.githubusercontent.com/NITISH-R-G/NITISH-R-G/output/github-contribution-grid-snake-dark.svg)
+
+| . | . |
+| --- | --- |
+| ![NITISH-R-G's github stats](https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&theme=tokyonight&include_all_commits=true) | ![NITISH-R-G's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH-R-G&theme=tokyonight&layout=compact) |
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0d1117&ring=00c3ff&fire=00c3ff&currStreakNum=ffffff" alt="GitHub Streak" />
+</p>
+
+<!-- profile-green-animate -->
+![profile green animate](./profile-3d-contrib/profile-green-animate.svg)
 
 <img src="github-metrics.svg" alt="Metrics" width="100%">
 
+### 📝 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 🕒 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🌎 `GLOBAL_PRESENCE`
+
 <!-- India Map -->
- ```geojson
+```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -189,29 +302,48 @@ graph TD;
 }
 ```
 
+---
 
-#### Thanks for visiting :heart:
+## 📡 `COMMUNICATIONS_LINK`
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/NITISH-R-G/count.svg">  
+<p align="center">
+    <a href="https://twitter.com/NITISH_R_G" target="blank"><img align="center" src="assets/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/nitish-r-g-15-10-2007-rgn/" target="blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:nitishrg.8220psgps2020@gmail.com" target="blank"><img align="center" src="assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+</p>
 
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<div align="center">
+  <br />
+  <p><i>"There are 10 types of people in this world, those who understand binary and those who don't."</i> 😆</p>
+</div>
 
-## Star History
+<p align="center">
+    <img src="https://profile-counter.glitch.me/NITISH-R-G/count.svg" alt="Visitor Count" />
+    <br/>
+    <a href="http://s01.flagcounter.com/more/ap7">
+        <img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" />
+    </a>
+</p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NITISH-R-G/NITISH-R-G&type=Date)](https://star-history.com/#NITISH-R-G/NITISH-R-G&Date)
+<p align="center">
+    <a href="https://star-history.com/#NITISH-R-G/NITISH-R-G&Date">
+        <img src="https://api.star-history.com/svg?repos=NITISH-R-G/NITISH-R-G&type=Date" alt="Star History Chart" width="50%" />
+    </a>
+</p>
 
 ### Profile Views
 
-![](https://count.getloli.com/get/@NITISH-R-G.github.readme)
+![Profile Views](https://count.getloli.com/get/@NITISH-R-G.github.readme)
 </br>
 
 [MIT](LICENSE)
 
-</p>
-
----
-*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
 
-![](assets/Bottom_down.svg)
+*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+
+---
+
+![Bottom Down](assets/Bottom_down.svg)
