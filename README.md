@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+<img src="assets/Bottom_up.svg" alt="" aria-hidden="true" />
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Studying Data Science at **IIT Madras**, building at **GDIN**.
 
 ### Featured Builds
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,7 +91,7 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 ### Now
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -134,4 +134,4 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 </div>
 
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" alt="" aria-hidden="true" />
