@@ -1,8 +1,8 @@
-![](assets/Bottom_up.svg)
+<img src="assets/Bottom_up.svg" alt="" aria-hidden="true" />
 
 <div align="center">
 
-![Header](./src/header_.png)
+<img src="./src/header_.png" alt="" aria-hidden="true" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Nitish+R.G;I+build+things+that+outlive+the+notebook.;RAG+pipelines+%C2%B7+CV+models+%C2%B7+full-stack+apps;BS+Data+Science+%40+IIT+Madras;Building+%40+GDIN" alt="Typing SVG" /></a>
 
@@ -49,7 +49,7 @@ Studying Data Science at **IIT Madras**, building at **GDIN**.
 
 ### Featured Builds
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,7 +91,7 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 ### Now
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -134,4 +134,4 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 </div>
 
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" alt="" aria-hidden="true" />
