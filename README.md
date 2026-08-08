@@ -1,8 +1,8 @@
-![](assets/Bottom_up.svg)
+<img src="assets/Bottom_up.svg" alt="" aria-hidden="true" />
 
 <div align="center">
 
-![Header](./src/header_.png)
+<img src="./src/header_.png" alt="" aria-hidden="true" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Nitish+R.G;I+build+things+that+outlive+the+notebook.;RAG+pipelines+%C2%B7+CV+models+%C2%B7+full-stack+apps;BS+Data+Science+%40+IIT+Madras;Building+%40+GDIN" alt="Typing SVG" /></a>
 
@@ -49,7 +49,7 @@ Studying Data Science at **IIT Madras**, building at **GDIN**.
 
 ### Featured Builds
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,7 +91,7 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 ### Now
 
-<table>
+<table role="presentation">
 <tr>
 <td width="50%" valign="top">
 
@@ -117,12 +117,12 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH-R-G&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=NITISH-R-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH-R-G&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0D1117&ring=00C3FF&fire=00C3FF&currStreakNum=FFFFFF" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=NITISH-R-G&theme=tokyonight&hide_border=true&background=0D1117&ring=00C3FF&fire=00C3FF&currStreakNum=FFFFFF" alt="GitHub Streak" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NITISH-R-G&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -134,4 +134,4 @@ Developer-productivity dashboard for tracking coding habits and consistency.
 
 </div>
 
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" alt="" aria-hidden="true" />
