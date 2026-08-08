@@ -1,3 +1,3 @@
-## 2026-06-07 - Tables as Layout in GitHub Profiles
-**Learning:** Because GitHub Markdown lacks flexbox/grid support, developers frequently use HTML `<table>` elements to create multi-column layouts for badges, stats, and text. Screen readers interpret these as complex data tables, causing significant auditory noise and confusion.
-**Action:** When reviewing GitHub profile READMEs or similar markdown files that heavily mix HTML for layout, always check for `<table>` elements and add `role="presentation"` to them. Also, remember to set `alt=""` and `aria-hidden="true"` on decorative dividing lines.
+## 2026-08-08 - Accessible Layout Tables and Decorative Images
+**Learning:** Purely visual tables used for layout are incorrectly announced as data tables by screen readers, confusing users. Similarly, decorative or layout-focused images (like section dividers or headers) create unnecessary noise if not hidden from assistive tech.
+**Action:** Apply `role="presentation"` to all layout-only `<table>` elements and convert decorative Markdown images to HTML `<img>` tags with `alt="" aria-hidden="true"` to create a cleaner screen reader experience. Add descriptive alt text to informative metric images.
