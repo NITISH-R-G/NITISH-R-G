@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#0d1117" />
+  <text x="400" y="200" font-family="Fira Code, monospace" font-size="24" fill="#8b949e" text-anchor="middle" alignment-baseline="middle">
+    3D Contribution Graph Generation in Progress...
+  </text>
+  <text x="400" y="240" font-family="Fira Code, monospace" font-size="16" fill="#484f58" text-anchor="middle" alignment-baseline="middle">
+    Awaiting GitHub Action workflow execution
+  </text>
+</svg>
