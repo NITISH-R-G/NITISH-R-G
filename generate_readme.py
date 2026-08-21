@@ -1,4 +1,4 @@
-# ⚡ Nitish R.G
+content = r"""# ⚡ Nitish R.G
 
 <div align="center">
 
@@ -173,3 +173,6 @@ Shh... you found the Easter egg!
 SYSTEM ALERT: Recruiter detected.
 Action required: Hire immediately!
 -->
+"""
+
+print(content)
